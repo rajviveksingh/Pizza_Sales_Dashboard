@@ -1,0 +1,1005 @@
+﻿Order ID,Restaurant Name,Location,Order Time,Delivery Time,Delivery Duration (min),Pizza Size,Pizza Type,Toppings Count,Distance (km),Traffic Level,Payment Method,Is Peak Hour,Is Weekend,Delivery Efficiency (min/km),Topping Density,Order Month,Payment Category
+ORD001,Domino's,"New York, NY",2024-01-05 18:30:00,2024-01-05 18:45:00,15,Medium,Veg,3,2.5,Medium,Card,TRUE,FALSE,6,1.2,January,Online
+ORD002,Papa John's,"Los Angeles, CA",2024-02-14 20:00:00,2024-02-14 20:25:00,25,Large,Non-Veg,4,5,High,Wallet,TRUE,FALSE,5,0.8,February,Online
+ORD003,Little Caesars,"Chicago, IL",2024-03-21 12:15:00,2024-03-21 12:35:00,20,Small,Vegan,2,3,Low,UPI,FALSE,FALSE,6.666666667,0.666666667,March,Online
+ORD004,Pizza Hut,"Miami, FL",2024-04-10 19:45:00,2024-04-10 20:10:00,25,XL,Cheese Burst,5,4.5,Medium,Cash,TRUE,FALSE,5.555555556,1.111111111,April,Offline
+ORD005,Marco's Pizza,"Dallas, TX",2024-05-05 13:00:00,2024-05-05 13:20:00,20,Medium,Non-Veg,3,2,High,Card,FALSE,TRUE,10,1.5,May,Online
+ORD006,Domino's,"New York, NY",2024-01-06 19:00:00,2024-01-06 19:20:00,20,Medium,Non-Veg,3,3,High,Card,TRUE,TRUE,6.666666667,1,January,Online
+ORD007,Papa John's,"Los Angeles, CA",2024-01-07 20:15:00,2024-01-07 20:40:00,25,Large,Veg,4,4.5,Medium,UPI,TRUE,TRUE,5.555555556,0.888888889,January,Online
+ORD008,Little Caesars,"Chicago, IL",2024-01-08 18:30:00,2024-01-08 18:50:00,20,Small,Vegan,2,2,Low,Cash,TRUE,FALSE,10,1,January,Offline
+ORD009,Pizza Hut,"Miami, FL",2024-01-09 19:45:00,2024-01-09 20:10:00,25,XL,Cheese Burst,5,5,High,Wallet,TRUE,FALSE,5,1,January,Online
+ORD010,Marco's Pizza,"Dallas, TX",2024-01-10 13:00:00,2024-01-10 13:20:00,20,Medium,Non-Veg,3,3.5,Medium,Card,FALSE,FALSE,5.714285714,0.857142857,January,Online
+ORD011,Domino's,"San Francisco, CA",2024-01-11 17:30:00,2024-01-11 17:50:00,20,Large,Veg,4,4,Low,UPI,FALSE,FALSE,5,1,January,Online
+ORD012,Papa John's,"Houston, TX",2024-01-12 19:00:00,2024-01-12 19:25:00,25,Medium,Non-Veg,3,3,Medium,Cash,TRUE,FALSE,8.333333333,1,January,Offline
+ORD013,Little Caesars,"Phoenix, AZ",2024-01-13 18:15:00,2024-01-13 18:35:00,20,Small,Vegan,2,2.5,High,Wallet,TRUE,TRUE,8,0.8,January,Online
+ORD014,Pizza Hut,"Atlanta, GA",2024-01-14 20:30:00,2024-01-14 20:55:00,25,XL,Cheese Burst,5,4,Low,Card,TRUE,TRUE,6.25,1.25,January,Online
+ORD015,Marco's Pizza,"Seattle, WA",2024-01-15 14:00:00,2024-01-15 14:20:00,20,Medium,Non-Veg,3,3,Medium,UPI,FALSE,FALSE,6.666666667,1,January,Online
+ORD016,Domino's,"Denver, CO",2024-01-16 19:45:00,2024-01-16 20:10:00,25,Large,Veg,4,4.5,High,Cash,TRUE,FALSE,5.555555556,0.888888889,January,Offline
+ORD017,Papa John's,"Boston, MA",2024-01-17 18:30:00,2024-01-17 18:55:00,25,Small,Vegan,2,2,Low,Wallet,TRUE,FALSE,12.5,1,January,Online
+ORD018,Little Caesars,"Dallas, TX",2024-01-18 20:00:00,2024-01-18 20:20:00,20,Medium,Non-Veg,3,3.5,Medium,Card,TRUE,FALSE,5.714285714,0.857142857,January,Online
+ORD019,Pizza Hut,"Los Angeles, CA",2024-01-19 19:15:00,2024-01-19 19:40:00,25,XL,Cheese Burst,5,4,High,UPI,TRUE,FALSE,6.25,1.25,January,Online
+ORD020,Marco's Pizza,"Chicago, IL",2024-01-20 13:30:00,2024-01-20 13:50:00,20,Medium,Non-Veg,3,3,Low,Cash,FALSE,TRUE,6.666666667,1,January,Offline
+ORD021,Domino's,"Miami, FL",2024-01-21 18:45:00,2024-01-21 19:10:00,25,Large,Veg,4,4.5,Medium,Wallet,TRUE,TRUE,5.555555556,0.888888889,January,Online
+ORD022,Papa John's,"Dallas, TX",2024-01-22 20:00:00,2024-01-22 20:25:00,25,Small,Vegan,2,2,High,Card,TRUE,FALSE,12.5,1,January,Online
+ORD023,Little Caesars,"Houston, TX",2024-01-23 19:30:00,2024-01-23 19:50:00,20,Medium,Non-Veg,3,3.5,Low,UPI,TRUE,FALSE,5.714285714,0.857142857,January,Online
+ORD024,Pizza Hut,"Phoenix, AZ",2024-01-24 18:15:00,2024-01-24 18:40:00,25,XL,Cheese Burst,5,4,Medium,Cash,TRUE,FALSE,6.25,1.25,January,Offline
+ORD025,Marco's Pizza,"Atlanta, GA",2024-01-25 14:30:00,2024-01-25 14:50:00,20,Medium,Non-Veg,3,3,High,Wallet,FALSE,FALSE,6.666666667,1,January,Online
+ORD026,Domino's,"Seattle, WA",2024-01-26 20:00:00,2024-01-26 20:25:00,25,Large,Veg,4,4.5,Low,Card,TRUE,FALSE,5.555555556,0.888888889,January,Online
+ORD027,Papa John's,"Denver, CO",2024-01-27 19:15:00,2024-01-27 19:40:00,25,Small,Vegan,2,2,Medium,UPI,TRUE,TRUE,12.5,1,January,Online
+ORD028,Little Caesars,"Boston, MA",2024-01-28 18:30:00,2024-01-28 18:50:00,20,Medium,Non-Veg,3,3.5,High,Cash,TRUE,TRUE,5.714285714,0.857142857,January,Offline
+ORD029,Pizza Hut,"Chicago, IL",2024-01-29 20:00:00,2024-01-29 20:25:00,25,XL,Cheese Burst,5,4,Low,Wallet,TRUE,FALSE,6.25,1.25,January,Online
+ORD030,Marco's Pizza,"Miami, FL",2024-01-30 13:15:00,2024-01-30 13:35:00,20,Medium,Non-Veg,3,3,Medium,Card,FALSE,FALSE,6.666666667,1,January,Online
+ORD031,Domino's,"Los Angeles, CA",2024-02-01 19:45:00,2024-02-01 20:10:00,25,Large,Veg,4,4.5,High,UPI,TRUE,FALSE,5.555555556,0.888888889,February,Online
+ORD032,Papa John's,"Phoenix, AZ",2024-02-02 18:00:00,2024-02-02 18:25:00,25,Small,Vegan,2,2,Low,Cash,TRUE,FALSE,12.5,1,February,Offline
+ORD033,Little Caesars,"Atlanta, GA",2024-02-03 20:30:00,2024-02-03 20:55:00,25,Medium,Non-Veg,3,3.5,Medium,Wallet,TRUE,TRUE,7.142857143,0.857142857,February,Online
+ORD034,Pizza Hut,"Dallas, TX",2024-02-04 14:15:00,2024-02-04 14:35:00,20,XL,Cheese Burst,5,4,High,Card,FALSE,TRUE,5,1.25,February,Online
+ORD035,Marco's Pizza,"Seattle, WA",2024-02-05 19:00:00,2024-02-05 19:25:00,25,Medium,Non-Veg,3,3,Low,UPI,TRUE,FALSE,8.333333333,1,February,Online
+ORD036,Domino's,"Houston, TX",2024-02-06 18:45:00,2024-02-06 19:10:00,25,Large,Veg,4,4.5,Medium,Card,TRUE,FALSE,5.555555556,0.888888889,February,Online
+ORD037,Papa John's,"Phoenix, AZ",2024-02-07 20:00:00,2024-02-07 20:25:00,25,Medium,Non-Veg,3,3,High,UPI,TRUE,FALSE,8.333333333,1,February,Online
+ORD038,Little Caesars,"Atlanta, GA",2024-02-08 19:30:00,2024-02-08 19:50:00,20,Small,Vegan,2,2.5,Low,Cash,TRUE,FALSE,8,0.8,February,Offline
+ORD039,Pizza Hut,"Dallas, TX",2024-02-09 18:15:00,2024-02-09 18:40:00,25,XL,Cheese Burst,5,4,Medium,Wallet,TRUE,FALSE,6.25,1.25,February,Online
+ORD040,Marco's Pizza,"Seattle, WA",2024-02-10 14:30:00,2024-02-10 14:50:00,20,Medium,Non-Veg,3,3.5,High,Card,FALSE,TRUE,5.714285714,0.857142857,February,Online
+ORD041,Domino's,"Denver, CO",2024-02-11 19:00:00,2024-02-11 19:20:00,20,Large,Veg,4,4,Low,UPI,TRUE,TRUE,5,1,February,Online
+ORD042,Papa John's,"Boston, MA",2024-02-12 20:15:00,2024-02-12 20:40:00,25,Small,Vegan,2,2,Medium,Cash,TRUE,FALSE,12.5,1,February,Offline
+ORD043,Little Caesars,"Dallas, TX",2024-02-13 18:30:00,2024-02-13 18:50:00,20,Medium,Non-Veg,3,3,High,Wallet,TRUE,FALSE,6.666666667,1,February,Online
+ORD044,Pizza Hut,"Los Angeles, CA",2024-02-14 19:45:00,2024-02-14 20:10:00,25,XL,Cheese Burst,5,5,Low,Card,TRUE,FALSE,5,1,February,Online
+ORD045,Marco's Pizza,"Chicago, IL",2024-02-15 13:00:00,2024-02-15 13:20:00,20,Medium,Non-Veg,3,3.5,Medium,UPI,FALSE,FALSE,5.714285714,0.857142857,February,Online
+ORD046,Domino's,"Miami, FL",2024-02-16 18:30:00,2024-02-16 18:50:00,20,Large,Veg,4,4,High,Cash,TRUE,FALSE,5,1,February,Offline
+ORD047,Papa John's,"Dallas, TX",2024-02-17 20:00:00,2024-02-17 20:25:00,25,Medium,Non-Veg,3,3,Low,Wallet,TRUE,TRUE,8.333333333,1,February,Online
+ORD048,Little Caesars,"Houston, TX",2024-02-18 19:15:00,2024-02-18 19:35:00,20,Small,Vegan,2,2.5,Medium,Card,TRUE,TRUE,8,0.8,February,Online
+ORD049,Pizza Hut,"Phoenix, AZ",2024-02-19 20:30:00,2024-02-19 20:55:00,25,XL,Cheese Burst,5,4.5,High,UPI,TRUE,FALSE,5.555555556,1.111111111,February,Online
+ORD050,Marco's Pizza,"Atlanta, GA",2024-02-20 14:45:00,2024-02-20 15:05:00,20,Medium,Non-Veg,3,3,Low,Cash,FALSE,FALSE,6.666666667,1,February,Offline
+ORD051,Domino's,"Seattle, WA",2024-02-21 19:00:00,2024-02-21 19:20:00,20,Large,Veg,4,4,Medium,Wallet,TRUE,FALSE,5,1,February,Online
+ORD052,Papa John's,"Denver, CO",2024-02-22 20:15:00,2024-02-22 20:40:00,25,Small,Vegan,2,2,High,Card,TRUE,FALSE,12.5,1,February,Online
+ORD053,Little Caesars,"Boston, MA",2024-02-23 18:30:00,2024-02-23 18:50:00,20,Medium,Non-Veg,3,3.5,Low,UPI,TRUE,FALSE,5.714285714,0.857142857,February,Online
+ORD054,Pizza Hut,"Chicago, IL",2024-02-24 19:45:00,2024-02-24 20:10:00,25,XL,Cheese Burst,5,4,Medium,Cash,TRUE,TRUE,6.25,1.25,February,Offline
+ORD055,Marco's Pizza,"Miami, FL",2024-02-25 13:00:00,2024-02-25 13:20:00,20,Medium,Non-Veg,3,3,High,Wallet,FALSE,TRUE,6.666666667,1,February,Online
+ORD056,Domino's,"Los Angeles, CA",2024-02-26 18:30:00,2024-02-26 18:50:00,20,Large,Veg,4,4.5,Low,Card,TRUE,FALSE,4.444444444,0.888888889,February,Online
+ORD057,Papa John's,"Phoenix, AZ",2024-02-27 20:00:00,2024-02-27 20:25:00,25,Medium,Non-Veg,3,3,High,UPI,TRUE,FALSE,8.333333333,1,February,Online
+ORD058,Little Caesars,"Atlanta, GA",2024-02-28 19:15:00,2024-02-28 19:35:00,20,Small,Vegan,2,2.5,Low,Cash,TRUE,FALSE,8,0.8,February,Offline
+ORD059,Pizza Hut,"Dallas, TX",2024-02-29 20:30:00,2024-02-29 20:55:00,25,XL,Cheese Burst,5,4,Medium,Wallet,TRUE,FALSE,6.25,1.25,February,Online
+ORD060,Marco's Pizza,"Seattle, WA",2024-03-01 14:45:00,2024-03-01 15:05:00,20,Medium,Non-Veg,3,3.5,High,Card,FALSE,FALSE,5.714285714,0.857142857,March,Online
+ORD061,Domino's,"Denver, CO",2024-03-02 19:00:00,2024-03-02 19:20:00,20,Large,Veg,4,4,Low,UPI,TRUE,TRUE,5,1,March,Online
+ORD062,Papa John's,"Boston, MA",2024-03-03 20:15:00,2024-03-03 20:40:00,25,Small,Vegan,2,2,Medium,Cash,TRUE,TRUE,12.5,1,March,Offline
+ORD063,Little Caesars,"Dallas, TX",2024-03-04 18:30:00,2024-03-04 18:50:00,20,Medium,Non-Veg,3,3,High,Wallet,TRUE,FALSE,6.666666667,1,March,Online
+ORD064,Pizza Hut,"Los Angeles, CA",2024-03-05 19:45:00,2024-03-05 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Card,TRUE,FALSE,5.555555556,1.111111111,March,Online
+ORD065,Marco's Pizza,"Chicago, IL",2024-03-06 13:00:00,2024-03-06 13:20:00,20,Medium,Non-Veg,3,3.5,Low,Card,FALSE,FALSE,5.714285714,0.857142857,March,Online
+ORD066,Domino's,"Miami, FL",2024-03-07 18:30:00,2024-03-07 18:50:00,20,Large,Veg,4,4,High,Card,TRUE,FALSE,5,1,March,Online
+ORD067,Papa John's,"Dallas, TX",2024-03-08 20:00:00,2024-03-08 20:25:00,25,Medium,Non-Veg,3,3.5,Medium,UPI,TRUE,FALSE,7.142857143,0.857142857,March,Online
+ORD068,Little Caesars,"Chicago, IL",2024-03-09 19:15:00,2024-03-09 19:35:00,20,Small,Vegan,2,2.5,Low,Cash,TRUE,TRUE,8,0.8,March,Offline
+ORD069,Pizza Hut,"Phoenix, AZ",2024-03-10 19:45:00,2024-03-10 20:10:00,25,XL,Cheese Burst,5,4.5,High,Wallet,TRUE,TRUE,5.555555556,1.111111111,March,Online
+ORD070,Marco's Pizza,"Atlanta, GA",2024-03-11 13:00:00,2024-03-11 13:20:00,20,Medium,Non-Veg,3,3,Low,Card,FALSE,FALSE,6.666666667,1,March,Online
+ORD071,Domino's,"Seattle, WA",2024-03-12 18:30:00,2024-03-12 18:50:00,20,Large,Veg,4,4,Medium,UPI,TRUE,FALSE,5,1,March,Online
+ORD072,Papa John's,"Denver, CO",2024-03-13 20:15:00,2024-03-13 20:40:00,25,Small,Vegan,2,2,High,Cash,TRUE,FALSE,12.5,1,March,Offline
+ORD073,Little Caesars,"Boston, MA",2024-03-14 18:30:00,2024-03-14 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,FALSE,5.714285714,0.857142857,March,Online
+ORD074,Pizza Hut,"Chicago, IL",2024-03-15 19:45:00,2024-03-15 20:10:00,25,XL,Cheese Burst,5,4,Medium,Card,TRUE,FALSE,6.25,1.25,March,Online
+ORD075,Marco's Pizza,"Miami, FL",2024-03-16 13:00:00,2024-03-16 13:20:00,20,Medium,Non-Veg,3,3,High,UPI,FALSE,TRUE,6.666666667,1,March,Online
+ORD076,Domino's,"Los Angeles, CA",2024-03-17 18:30:00,2024-03-17 18:50:00,20,Large,Veg,4,4.5,Low,Cash,TRUE,TRUE,4.444444444,0.888888889,March,Offline
+ORD077,Papa John's,"Phoenix, AZ",2024-03-18 20:00:00,2024-03-18 20:25:00,25,Medium,Non-Veg,3,3,High,Wallet,TRUE,FALSE,8.333333333,1,March,Online
+ORD078,Little Caesars,"Atlanta, GA",2024-03-19 19:15:00,2024-03-19 19:35:00,20,Small,Vegan,2,2.5,Low,Card,TRUE,FALSE,8,0.8,March,Online
+ORD079,Pizza Hut,"Dallas, TX",2024-03-20 19:45:00,2024-03-20 20:10:00,25,XL,Cheese Burst,5,4,Medium,UPI,TRUE,FALSE,6.25,1.25,March,Online
+ORD080,Marco's Pizza,"Seattle, WA",2024-03-21 13:00:00,2024-03-21 13:20:00,20,Medium,Non-Veg,3,3.5,High,Cash,FALSE,FALSE,5.714285714,0.857142857,March,Offline
+ORD081,Domino's,"Denver, CO",2024-03-22 18:30:00,2024-03-22 18:50:00,20,Large,Veg,4,4,Low,Wallet,TRUE,FALSE,5,1,March,Online
+ORD082,Papa John's,"Boston, MA",2024-03-23 20:15:00,2024-03-23 20:40:00,25,Small,Vegan,2,2,High,Card,TRUE,TRUE,12.5,1,March,Online
+ORD083,Little Caesars,"Dallas, TX",2024-03-24 18:30:00,2024-03-24 18:50:00,20,Medium,Non-Veg,3,3,High,UPI,TRUE,TRUE,6.666666667,1,March,Online
+ORD084,Pizza Hut,"Los Angeles, CA",2024-03-25 19:45:00,2024-03-25 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,FALSE,5.555555556,1.111111111,March,Offline
+ORD085,Marco's Pizza,"Chicago, IL",2024-03-26 13:00:00,2024-03-26 13:20:00,20,Medium,Non-Veg,3,3.5,Medium,Wallet,FALSE,FALSE,5.714285714,0.857142857,March,Online
+ORD086,Domino's,"Miami, FL",2024-03-27 18:30:00,2024-03-27 18:50:00,20,Large,Veg,4,4,High,Card,TRUE,FALSE,5,1,March,Online
+ORD087,Papa John's,"Dallas, TX",2024-03-28 20:00:00,2024-03-28 20:25:00,25,Medium,Non-Veg,3,3,Low,UPI,TRUE,FALSE,8.333333333,1,March,Online
+ORD088,Little Caesars,"Houston, TX",2024-03-29 19:15:00,2024-03-29 19:35:00,20,Small,Vegan,2,2.5,Low,Cash,TRUE,FALSE,8,0.8,March,Offline
+ORD089,Pizza Hut,"Phoenix, AZ",2024-03-30 19:45:00,2024-03-30 20:10:00,25,XL,Cheese Burst,5,4.5,High,Wallet,TRUE,TRUE,5.555555556,1.111111111,March,Online
+ORD090,Marco's Pizza,"Atlanta, GA",2024-03-31 13:00:00,2024-03-31 13:20:00,20,Medium,Non-Veg,3,3,Medium,Card,FALSE,TRUE,6.666666667,1,March,Online
+ORD091,Domino's,"Seattle, WA",2024-04-01 18:30:00,2024-04-01 18:50:00,20,Large,Veg,4,4,Low,UPI,TRUE,FALSE,5,1,April,Online
+ORD092,Papa John's,"Denver, CO",2024-04-02 20:15:00,2024-04-02 20:40:00,25,Small,Vegan,2,2,High,Cash,TRUE,FALSE,12.5,1,April,Offline
+ORD093,Little Caesars,"Boston, MA",2024-04-03 18:30:00,2024-04-03 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,FALSE,5.714285714,0.857142857,April,Online
+ORD094,Pizza Hut,"Chicago, IL",2024-04-04 19:45:00,2024-04-04 20:10:00,25,XL,Cheese Burst,5,4,Medium,Card,TRUE,FALSE,6.25,1.25,April,Online
+ORD095,Marco's Pizza,"Miami, FL",2024-04-05 13:00:00,2024-04-05 13:20:00,20,Medium,Non-Veg,3,3,High,UPI,FALSE,FALSE,6.666666667,1,April,Online
+ORD096,Domino's,"Los Angeles, CA",2024-04-06 18:30:00,2024-04-06 18:50:00,20,Large,Veg,4,4.5,High,Card,TRUE,TRUE,4.444444444,0.888888889,April,Online
+ORD097,Papa John's,"Dallas, TX",2024-04-07 20:00:00,2024-04-07 20:25:00,25,Medium,Non-Veg,3,3,Medium,UPI,TRUE,TRUE,8.333333333,1,April,Online
+ORD098,Little Caesars,"Chicago, IL",2024-04-08 19:15:00,2024-04-08 19:35:00,20,Small,Vegan,2,2.5,Low,Cash,TRUE,FALSE,8,0.8,April,Offline
+ORD099,Pizza Hut,"Phoenix, AZ",2024-04-09 19:45:00,2024-04-09 20:10:00,25,XL,Cheese Burst,5,4,High,Wallet,TRUE,FALSE,6.25,1.25,April,Online
+ORD100,Marco's Pizza,"Atlanta, GA",2024-04-10 13:00:00,2024-04-10 13:20:00,20,Medium,Non-Veg,3,3.5,Low,Card,FALSE,FALSE,5.714285714,0.857142857,April,Online
+ORD101,Domino's,"Seattle, WA",2024-04-11 18:30:00,2024-04-11 18:50:00,20,Large,Veg,4,4.5,Medium,UPI,TRUE,FALSE,4.444444444,0.888888889,April,Online
+ORD102,Papa John's,"Denver, CO",2024-04-12 20:15:00,2024-04-12 20:40:00,25,Small,Vegan,2,2,High,Cash,TRUE,FALSE,12.5,1,April,Offline
+ORD103,Little Caesars,"Boston, MA",2024-04-13 18:30:00,2024-04-13 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,TRUE,5.714285714,0.857142857,April,Online
+ORD104,Pizza Hut,"Chicago, IL",2024-04-14 19:45:00,2024-04-14 20:10:00,25,XL,Cheese Burst,5,4,Medium,Card,TRUE,TRUE,6.25,1.25,April,Online
+ORD105,Marco's Pizza,"Miami, FL",2024-04-15 13:00:00,2024-04-15 13:20:00,20,Medium,Non-Veg,3,3,High,UPI,FALSE,FALSE,6.666666667,1,April,Online
+ORD106,Domino's,"Los Angeles, CA",2024-04-16 18:30:00,2024-04-16 18:50:00,20,Large,Veg,4,4.5,Low,Cash,TRUE,FALSE,4.444444444,0.888888889,April,Offline
+ORD107,Papa John's,"Phoenix, AZ",2024-04-17 20:00:00,2024-04-17 20:25:00,25,Medium,Non-Veg,3,3,High,Wallet,TRUE,FALSE,8.333333333,1,April,Online
+ORD108,Little Caesars,"Atlanta, GA",2024-04-18 19:15:00,2024-04-18 19:35:00,20,Small,Vegan,2,2.5,Low,Card,TRUE,FALSE,8,0.8,April,Online
+ORD109,Pizza Hut,"Dallas, TX",2024-04-19 19:45:00,2024-04-19 20:10:00,25,XL,Cheese Burst,5,4,Medium,UPI,TRUE,FALSE,6.25,1.25,April,Online
+ORD110,Marco's Pizza,"Seattle, WA",2024-04-20 13:00:00,2024-04-20 13:20:00,20,Medium,Non-Veg,3,3.5,High,Cash,FALSE,TRUE,5.714285714,0.857142857,April,Offline
+ORD111,Domino's,"Denver, CO",2024-04-21 18:30:00,2024-04-21 18:50:00,20,Large,Veg,4,4.5,Low,Wallet,TRUE,TRUE,4.444444444,0.888888889,April,Online
+ORD112,Papa John's,"Boston, MA",2024-04-22 20:15:00,2024-04-22 20:40:00,25,Small,Vegan,2,2,High,Card,TRUE,FALSE,12.5,1,April,Online
+ORD113,Little Caesars,"Dallas, TX",2024-04-23 18:30:00,2024-04-23 18:50:00,20,Medium,Non-Veg,3,3,High,UPI,TRUE,FALSE,6.666666667,1,April,Online
+ORD114,Pizza Hut,"Los Angeles, CA",2024-04-24 19:45:00,2024-04-24 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,FALSE,5.555555556,1.111111111,April,Offline
+ORD115,Marco's Pizza,"Chicago, IL",2024-04-25 13:00:00,2024-04-25 13:20:00,20,Medium,Non-Veg,3,3.5,Medium,Wallet,FALSE,FALSE,5.714285714,0.857142857,April,Online
+ORD116,Domino's,"Miami, FL",2024-04-26 18:30:00,2024-04-26 18:50:00,20,Large,Veg,4,4,High,Card,TRUE,FALSE,5,1,April,Online
+ORD117,Papa John's,"Dallas, TX",2024-04-27 20:00:00,2024-04-27 20:25:00,25,Medium,Non-Veg,3,3,Low,UPI,TRUE,TRUE,8.333333333,1,April,Online
+ORD118,Little Caesars,"Houston, TX",2024-04-28 19:15:00,2024-04-28 19:35:00,20,Small,Vegan,2,2.5,Low,Cash,TRUE,TRUE,8,0.8,April,Offline
+ORD119,Pizza Hut,"Phoenix, AZ",2024-04-29 19:45:00,2024-04-29 20:10:00,25,XL,Cheese Burst,5,4.5,High,Wallet,TRUE,FALSE,5.555555556,1.111111111,April,Online
+ORD120,Marco's Pizza,"Atlanta, GA",2024-04-30 13:00:00,2024-04-30 13:20:00,20,Medium,Non-Veg,3,3,Medium,Card,FALSE,FALSE,6.666666667,1,April,Online
+ORD121,Domino's,"Seattle, WA",2024-05-01 18:30:00,2024-05-01 18:50:00,20,Large,Veg,4,4.5,Low,UPI,TRUE,FALSE,4.444444444,0.888888889,May,Online
+ORD122,Papa John's,"Denver, CO",2024-05-02 20:15:00,2024-05-02 20:40:00,25,Small,Vegan,2,2,High,Cash,TRUE,FALSE,12.5,1,May,Offline
+ORD123,Little Caesars,"Boston, MA",2024-05-03 18:30:00,2024-05-03 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,FALSE,5.714285714,0.857142857,May,Online
+ORD124,Pizza Hut,"Chicago, IL",2024-05-04 19:45:00,2024-05-04 20:10:00,25,XL,Cheese Burst,5,4,Medium,Card,TRUE,TRUE,6.25,1.25,May,Online
+ORD125,Marco's Pizza,"Miami, FL",2024-05-05 13:00:00,2024-05-05 13:20:00,20,Medium,Non-Veg,3,3,High,UPI,FALSE,TRUE,6.666666667,1,May,Online
+ORD126,Domino's,"New York, NY",2024-08-01 18:00:00,2024-08-01 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,August,Online
+ORD127,Papa John's,"Chicago, IL",2024-08-02 19:15:00,2024-08-02 19:45:00,30,Large,Non-Veg,4,6,Medium,UPI,TRUE,FALSE,5,0.666666667,August,Online
+ORD128,Pizza Hut,"Los Angeles, CA",2024-08-03 20:30:00,2024-08-03 21:10:00,40,XL,Cheese Burst,5,8,High,Wallet,TRUE,TRUE,5,0.625,August,Online
+ORD129,Little Caesars,"Houston, TX",2024-08-04 18:45:00,2024-08-04 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,August,Offline
+ORD130,Marco's Pizza,"Phoenix, AZ",2024-08-05 19:00:00,2024-08-05 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,August,Online
+ORD131,Domino's,"Miami, FL",2024-08-06 20:00:00,2024-08-06 20:35:00,35,Medium,Veg,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,August,Online
+ORD132,Papa John's,"Denver, CO",2024-08-07 18:30:00,2024-08-07 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,August,Online
+ORD133,Pizza Hut,"Boston, MA",2024-08-08 19:45:00,2024-08-08 20:25:00,40,XL,Cheese Burst,5,7.5,High,Cash,TRUE,FALSE,5.333333333,0.666666667,August,Offline
+ORD134,Little Caesars,"Dallas, TX",2024-08-09 18:00:00,2024-08-09 18:30:00,30,Medium,Non-Veg,3,4,Medium,Card,TRUE,FALSE,7.5,0.75,August,Online
+ORD135,Marco's Pizza,"Seattle, WA",2024-08-10 20:15:00,2024-08-10 21:00:00,45,Large,Veg,4,9,High,Wallet,TRUE,TRUE,5,0.444444444,August,Online
+ORD136,Domino's,"San Jose, CA",2024-08-11 18:00:00,2024-08-11 18:20:00,20,Medium,Veg,2,3,Low,UPI,TRUE,TRUE,6.666666667,0.666666667,August,Online
+ORD137,Papa John's,"Austin, TX",2024-08-12 19:15:00,2024-08-12 19:45:00,30,Large,Non-Veg,4,6,Medium,Cash,TRUE,FALSE,5,0.666666667,August,Offline
+ORD138,Pizza Hut,"San Diego, CA",2024-08-13 20:30:00,2024-08-13 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,August,Online
+ORD139,Little Caesars,"Jacksonville, FL",2024-08-14 18:45:00,2024-08-14 19:05:00,20,Small,Vegan,1,2.5,Low,Wallet,TRUE,FALSE,8,0.4,August,Online
+ORD140,Marco's Pizza,"Fort Worth, TX",2024-08-15 19:00:00,2024-08-15 19:50:00,50,Large,Non-Veg,4,10,High,UPI,TRUE,FALSE,5,0.4,August,Online
+ORD141,Domino's,"Columbus, OH",2024-08-16 20:00:00,2024-08-16 20:35:00,35,Medium,Veg,3,5.5,Medium,Cash,TRUE,FALSE,6.363636364,0.545454545,August,Offline
+ORD142,Papa John's,"Charlotte, NC",2024-08-17 18:30:00,2024-08-17 18:50:00,20,Small,Vegan,2,2,Low,Card,TRUE,TRUE,10,1,August,Online
+ORD143,Pizza Hut,"Indianapolis, IN",2024-08-18 19:45:00,2024-08-18 20:25:00,40,XL,Cheese Burst,5,7.5,High,Wallet,TRUE,TRUE,5.333333333,0.666666667,August,Online
+ORD144,Little Caesars,"San Francisco, CA",2024-08-19 18:00:00,2024-08-19 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,August,Online
+ORD145,Marco's Pizza,"Charlotte, NC",2024-08-20 20:15:00,2024-08-20 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,August,Offline
+ORD146,Domino's,"Detroit, MI",2024-08-21 18:00:00,2024-08-21 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,August,Online
+ORD147,Papa John's,"El Paso, TX",2024-08-22 19:15:00,2024-08-22 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,August,Online
+ORD148,Pizza Hut,"Memphis, TN",2024-08-23 20:30:00,2024-08-23 21:10:00,40,XL,Cheese Burst,5,8,High,UPI,TRUE,FALSE,5,0.625,August,Online
+ORD149,Little Caesars,"Baltimore, MD",2024-08-24 18:45:00,2024-08-24 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,August,Offline
+ORD150,Marco's Pizza,"Boston, MA",2024-08-25 19:00:00,2024-08-25 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,TRUE,5,0.4,August,Online
+ORD151,Domino's,"New York, NY",2024-08-01 18:00:00,2024-08-01 18:30:00,30,Large,Veg,4,5.5,High,Domino's Cash,TRUE,FALSE,5.454545455,0.727272727,August,Offline
+ORD152,Pizza Hut,"Los Angeles, CA",2024-08-02 19:15:00,2024-08-02 19:45:00,30,XL,Cheese Burst,5,6,Medium,Card,TRUE,FALSE,5,0.833333333,August,Online
+ORD153,Papa John's,"Chicago, IL",2024-08-03 20:00:00,2024-08-03 20:35:00,35,Medium,Non-Veg,3,7.2,Low,UPI,TRUE,TRUE,4.861111111,0.416666667,August,Online
+ORD154,Little Caesars,"Houston, TX",2024-08-04 17:45:00,2024-08-04 18:05:00,20,Small,Vegan,2,3,Low,Wallet,FALSE,TRUE,6.666666667,0.666666667,August,Online
+ORD155,Marco's Pizza,"Phoenix, AZ",2024-08-05 13:30:00,2024-08-05 14:00:00,30,Medium,Non-Veg,4,5,High,Cash,FALSE,FALSE,6,0.8,August,Offline
+ORD156,Domino's,"Miami, FL",2024-08-06 18:20:00,2024-08-06 18:50:00,30,Large,Veg,3,6.5,Medium,Domino's Cash,TRUE,FALSE,4.615384615,0.461538462,August,Offline
+ORD157,Papa John's,"Denver, CO",2024-08-07 20:10:00,2024-08-07 20:45:00,35,Small,Vegan,2,4,High,Card,TRUE,FALSE,8.75,0.5,August,Online
+ORD158,Little Caesars,"Boston, MA",2024-08-08 18:00:00,2024-08-08 18:25:00,25,Medium,Non-Veg,3,3.5,Low,UPI,TRUE,FALSE,7.142857143,0.857142857,August,Online
+ORD159,Pizza Hut,"Dallas, TX",2024-08-09 19:30:00,2024-08-09 20:00:00,30,XL,Cheese Burst,5,6,Medium,Wallet,TRUE,FALSE,5,0.833333333,August,Online
+ORD160,Marco's Pizza,"Seattle, WA",2024-08-10 12:45:00,2024-08-10 13:15:00,30,Medium,Non-Veg,4,5.5,High,Cash,FALSE,TRUE,5.454545455,0.727272727,August,Offline
+ORD161,Domino's,"Denver, CO",2024-08-11 18:15:00,2024-08-11 18:45:00,30,Large,Veg,3,6,Medium,Domino's Cash,TRUE,TRUE,5,0.5,August,Offline
+ORD162,Papa John's,"Boston, MA",2024-08-12 20:00:00,2024-08-12 20:30:00,30,Small,Vegan,2,4.5,Low,Card,TRUE,FALSE,6.666666667,0.444444444,August,Online
+ORD163,Little Caesars,"Dallas, TX",2024-08-13 18:10:00,2024-08-13 18:35:00,25,Medium,Non-Veg,3,3,High,UPI,TRUE,FALSE,8.333333333,1,August,Online
+ORD164,Pizza Hut,"Los Angeles, CA",2024-08-14 19:20:00,2024-08-14 19:50:00,30,XL,Cheese Burst,5,6.5,Medium,Wallet,TRUE,FALSE,4.615384615,0.769230769,August,Online
+ORD165,Marco's Pizza,"Chicago, IL",2024-08-15 13:15:00,2024-08-15 13:45:00,30,Medium,Non-Veg,4,5,High,Cash,FALSE,FALSE,6,0.8,August,Offline
+ORD166,Domino's,"Miami, FL",2024-08-16 18:25:00,2024-08-16 18:55:00,30,Large,Veg,3,6,Medium,Domino's Cash,TRUE,FALSE,5,0.5,August,Offline
+ORD167,Papa John's,"Denver, CO",2024-08-17 20:05:00,2024-08-17 20:35:00,30,Small,Vegan,2,4,Low,Card,TRUE,TRUE,7.5,0.5,August,Online
+ORD168,Little Caesars,"Boston, MA",2024-08-18 18:00:00,2024-08-18 18:25:00,25,Medium,Non-Veg,3,3.5,High,UPI,TRUE,TRUE,7.142857143,0.857142857,August,Online
+ORD169,Pizza Hut,"Dallas, TX",2024-08-19 19:30:00,2024-08-19 20:00:00,30,XL,Cheese Burst,5,6,Medium,Wallet,TRUE,FALSE,5,0.833333333,August,Online
+ORD170,Marco's Pizza,"Seattle, WA",2024-08-20 13:00:00,2024-08-20 13:30:00,30,Medium,Non-Veg,4,5.5,Low,Cash,FALSE,FALSE,5.454545455,0.727272727,August,Offline
+ORD171,Domino's,"Denver, CO",2024-08-21 18:15:00,2024-08-21 18:45:00,30,Large,Veg,3,6,High,Domino's Cash,TRUE,FALSE,5,0.5,August,Offline
+ORD172,Papa John's,"Boston, MA",2024-08-22 20:00:00,2024-08-22 20:30:00,30,Small,Vegan,2,4.5,Medium,Card,TRUE,FALSE,6.666666667,0.444444444,August,Online
+ORD173,Little Caesars,"Dallas, TX",2024-08-23 18:10:00,2024-08-23 18:35:00,25,Medium,Non-Veg,3,3,Low,UPI,TRUE,FALSE,8.333333333,1,August,Online
+ORD174,Pizza Hut,"Los Angeles, CA",2024-08-24 19:20:00,2024-08-24 19:50:00,30,XL,Cheese Burst,5,6.5,High,Wallet,TRUE,TRUE,4.615384615,0.769230769,August,Online
+ORD175,Marco's Pizza,"Atlanta, GA",2024-06-20 13:00:00,2024-06-20 13:20:00,20,Medium,Non-Veg,3,3,Medium,Card,FALSE,FALSE,6.666666667,1,June,Online
+ORD176,Domino's,"Denver, CO",2024-06-21 18:30:00,2024-06-21 18:50:00,20,Large,Veg,4,4.5,Low,UPI,TRUE,FALSE,4.444444444,0.888888889,June,Online
+ORD177,Papa John's,"Boston, MA",2024-06-22 20:15:00,2024-06-22 20:40:00,25,Small,Vegan,2,2,High,Cash,TRUE,TRUE,12.5,1,June,Offline
+ORD178,Little Caesars,"Dallas, TX",2024-06-23 18:30:00,2024-06-23 18:50:00,20,Medium,Non-Veg,3,3,High,UPI,TRUE,TRUE,6.666666667,1,June,Online
+ORD179,Pizza Hut,"Los Angeles, CA",2024-06-24 19:45:00,2024-06-24 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,FALSE,5.555555556,1.111111111,June,Offline
+ORD180,Marco's Pizza,"Chicago, IL",2024-06-25 13:00:00,2024-06-25 13:20:00,20,Medium,Non-Veg,3,3.5,Medium,Wallet,FALSE,FALSE,5.714285714,0.857142857,June,Online
+ORD181,Domino's,"Miami, FL",2024-06-26 18:30:00,2024-06-26 18:55:00,25,Large,Veg,4,4.5,High,Card,TRUE,FALSE,5.555555556,0.888888889,June,Online
+ORD182,Papa John's,"Phoenix, AZ",2024-06-27 20:00:00,2024-06-27 20:25:00,25,Medium,Non-Veg,3,3,Medium,UPI,TRUE,FALSE,8.333333333,1,June,Online
+ORD183,Little Caesars,"Atlanta, GA",2024-06-28 19:15:00,2024-06-28 19:35:00,20,Small,Vegan,2,2.5,Low,Cash,TRUE,FALSE,8,0.8,June,Offline
+ORD184,Pizza Hut,"Chicago, IL",2024-06-29 19:45:00,2024-06-29 20:10:00,25,XL,Cheese Burst,5,4,High,Wallet,TRUE,TRUE,6.25,1.25,June,Online
+ORD185,Marco's Pizza,"Miami, FL",2024-06-30 13:00:00,2024-06-30 13:20:00,20,Medium,Non-Veg,3,3.5,Low,Card,FALSE,TRUE,5.714285714,0.857142857,June,Online
+ORD186,Domino's,"Los Angeles, CA",2024-07-01 18:30:00,2024-07-01 18:50:00,20,Large,Veg,4,4.5,Medium,UPI,TRUE,FALSE,4.444444444,0.888888889,July,Online
+ORD187,Papa John's,"Denver, CO",2024-07-02 20:15:00,2024-07-02 20:40:00,25,Small,Vegan,2,2,High,Cash,TRUE,FALSE,12.5,1,July,Offline
+ORD188,Little Caesars,"Boston, MA",2024-07-03 18:30:00,2024-07-03 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,FALSE,5.714285714,0.857142857,July,Online
+ORD189,Pizza Hut,"Dallas, TX",2024-07-04 19:45:00,2024-07-04 20:10:00,25,XL,Cheese Burst,5,4,Medium,Card,TRUE,FALSE,6.25,1.25,July,Online
+ORD190,Marco's Pizza,"Seattle, WA",2024-07-05 13:00:00,2024-07-05 13:20:00,20,Medium,Non-Veg,3,3.5,High,UPI,FALSE,FALSE,5.714285714,0.857142857,July,Online
+ORD191,Domino's,"Denver, CO",2024-07-06 18:30:00,2024-07-06 18:50:00,20,Large,Veg,4,4.5,Low,Cash,TRUE,TRUE,4.444444444,0.888888889,July,Offline
+ORD192,Papa John's,"Boston, MA",2024-07-07 20:15:00,2024-07-07 20:40:00,25,Small,Vegan,2,2,High,Wallet,TRUE,TRUE,12.5,1,July,Online
+ORD193,Little Caesars,"Dallas, TX",2024-07-08 18:30:00,2024-07-08 18:50:00,20,Medium,Non-Veg,3,3,High,UPI,TRUE,FALSE,6.666666667,1,July,Online
+ORD194,Pizza Hut,"Los Angeles, CA",2024-07-09 19:45:00,2024-07-09 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,FALSE,5.555555556,1.111111111,July,Offline
+ORD195,Marco's Pizza,"Chicago, IL",2024-07-10 13:00:00,2024-07-10 13:20:00,20,Medium,Non-Veg,3,3.5,Medium,Wallet,FALSE,FALSE,5.714285714,0.857142857,July,Online
+ORD196,Domino's,"Miami, FL",2024-07-11 18:30:00,2024-07-11 18:50:00,20,Large,Veg,4,4,High,Card,TRUE,FALSE,5,1,July,Online
+ORD197,Papa John's,"Dallas, TX",2024-07-12 20:00:00,2024-07-12 20:25:00,25,Medium,Non-Veg,3,3,Low,UPI,TRUE,FALSE,8.333333333,1,July,Online
+ORD198,Little Caesars,"Houston, TX",2024-07-13 19:15:00,2024-07-13 19:35:00,20,Small,Vegan,2,2.5,Low,Cash,TRUE,TRUE,8,0.8,July,Offline
+ORD199,Pizza Hut,"Phoenix, AZ",2024-07-14 19:45:00,2024-07-14 20:10:00,25,XL,Cheese Burst,5,4.5,High,Wallet,TRUE,TRUE,5.555555556,1.111111111,July,Online
+ORD200,Marco's Pizza,"Atlanta, GA",2024-07-15 13:00:00,2024-07-15 13:20:00,20,Medium,Non-Veg,3,3,Medium,Card,FALSE,FALSE,6.666666667,1,July,Online
+ORD201,Domino's,"New York, NY",2024-07-16 18:30:00,2024-07-16 18:55:00,25,Large,Veg,3,5,High,Card,TRUE,FALSE,5,0.6,July,Online
+ORD202,Papa John's,"Los Angeles, CA",2024-07-17 19:00:00,2024-07-17 19:30:00,30,Medium,Non-Veg,4,3.5,Medium,UPI,TRUE,FALSE,8.571428571,1.142857143,July,Online
+ORD203,Little Caesars,"Chicago, IL",2024-07-18 20:15:00,2024-07-18 20:40:00,25,Small,Vegan,2,4,Low,Cash,TRUE,FALSE,6.25,0.5,July,Offline
+ORD204,Pizza Hut,"Houston, TX",2024-07-19 19:45:00,2024-07-19 20:10:00,25,XL,Cheese Burst,5,6,High,Wallet,TRUE,FALSE,4.166666667,0.833333333,July,Online
+ORD205,Marco's Pizza,"Phoenix, AZ",2024-07-20 13:00:00,2024-07-20 13:25:00,25,Medium,Non-Veg,3,3,Low,Card,FALSE,TRUE,8.333333333,1,July,Online
+ORD206,Domino's,"Miami, FL",2024-07-21 18:30:00,2024-07-21 18:55:00,25,Large,Veg,4,5,High,UPI,TRUE,TRUE,5,0.8,July,Online
+ORD207,Papa John's,"Denver, CO",2024-07-22 20:15:00,2024-07-22 20:40:00,25,Small,Vegan,2,2.5,Medium,Cash,TRUE,FALSE,10,0.8,July,Offline
+ORD208,Little Caesars,"Boston, MA",2024-07-23 18:30:00,2024-07-23 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,FALSE,5.714285714,0.857142857,July,Online
+ORD209,Pizza Hut,"Dallas, TX",2024-07-24 19:45:00,2024-07-24 20:10:00,25,XL,Cheese Burst,5,4,High,Card,TRUE,FALSE,6.25,1.25,July,Online
+ORD210,Marco's Pizza,"Seattle, WA",2024-07-25 13:00:00,2024-07-25 13:20:00,20,Medium,Non-Veg,3,3.5,Low,UPI,FALSE,FALSE,5.714285714,0.857142857,July,Online
+ORD211,Domino's,"Denver, CO",2024-07-26 18:30:00,2024-07-26 18:50:00,20,Large,Veg,4,4.5,Medium,Cash,TRUE,FALSE,4.444444444,0.888888889,July,Offline
+ORD212,Papa John's,"Boston, MA",2024-07-27 20:15:00,2024-07-27 20:40:00,25,Small,Vegan,2,2,High,Wallet,TRUE,TRUE,12.5,1,July,Online
+ORD213,Little Caesars,"Dallas, TX",2024-07-28 18:30:00,2024-07-28 18:50:00,20,Medium,Non-Veg,3,3,High,UPI,TRUE,TRUE,6.666666667,1,July,Online
+ORD214,Pizza Hut,"Los Angeles, CA",2024-07-29 19:45:00,2024-07-29 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,FALSE,5.555555556,1.111111111,July,Offline
+ORD215,Marco's Pizza,"Chicago, IL",2024-07-30 13:00:00,2024-07-30 13:20:00,20,Medium,Non-Veg,3,3.5,Medium,Wallet,FALSE,FALSE,5.714285714,0.857142857,July,Online
+ORD216,Domino's,"Miami, FL",2024-07-31 18:30:00,2024-07-31 18:50:00,20,Large,Veg,4,4,High,Card,TRUE,FALSE,5,1,July,Online
+ORD217,Papa John's,"Dallas, TX",2024-08-01 20:00:00,2024-08-01 20:25:00,25,Medium,Non-Veg,3,3,Low,UPI,TRUE,FALSE,8.333333333,1,August,Online
+ORD218,Little Caesars,"Houston, TX",2024-08-02 19:15:00,2024-08-02 19:35:00,20,Small,Vegan,2,2.5,Low,Cash,TRUE,FALSE,8,0.8,August,Offline
+ORD219,Pizza Hut,"Phoenix, AZ",2024-08-03 19:45:00,2024-08-03 20:10:00,25,XL,Cheese Burst,5,4.5,High,Wallet,TRUE,TRUE,5.555555556,1.111111111,August,Online
+ORD220,Marco's Pizza,"Atlanta, GA",2024-08-04 13:00:00,2024-08-04 13:20:00,20,Medium,Non-Veg,3,3,Medium,Card,FALSE,TRUE,6.666666667,1,August,Online
+ORD221,Domino's,"New York, NY",2024-08-05 18:30:00,2024-08-05 18:55:00,25,Large,Veg,3,5,High,Card,TRUE,FALSE,5,0.6,August,Online
+ORD222,Papa John's,"Los Angeles, CA",2024-08-06 19:00:00,2024-08-06 19:30:00,30,Medium,Non-Veg,4,3.5,Medium,UPI,TRUE,FALSE,8.571428571,1.142857143,August,Online
+ORD223,Little Caesars,"Chicago, IL",2024-08-07 20:15:00,2024-08-07 20:40:00,25,Small,Vegan,2,4,Low,Cash,TRUE,FALSE,6.25,0.5,August,Offline
+ORD224,Pizza Hut,"Houston, TX",2024-08-08 19:45:00,2024-08-08 20:10:00,25,XL,Cheese Burst,5,6,High,Wallet,TRUE,FALSE,4.166666667,0.833333333,August,Online
+ORD225,Marco's Pizza,"Phoenix, AZ",2024-08-09 13:00:00,2024-08-09 13:25:00,25,Medium,Non-Veg,3,3,Low,Card,FALSE,FALSE,8.333333333,1,August,Online
+ORD226,Domino's,"Miami, FL",2024-08-10 18:30:00,2024-08-10 18:55:00,25,Large,Veg,4,5,High,UPI,TRUE,TRUE,5,0.8,August,Online
+ORD227,Papa John's,"Denver, CO",2024-08-11 20:15:00,2024-08-11 20:40:00,25,Small,Vegan,2,2.5,Medium,Cash,TRUE,TRUE,10,0.8,August,Offline
+ORD228,Little Caesars,"Boston, MA",2024-08-12 18:30:00,2024-08-12 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,FALSE,5.714285714,0.857142857,August,Online
+ORD229,Pizza Hut,"Los Angeles, CA",2024-08-13 19:45:00,2024-08-13 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,FALSE,5.555555556,1.111111111,August,Offline
+ORD230,Domino's,"New York, NY",2024-08-14 18:30:00,2024-08-14 19:05:00,35,Large,Veg,3,5,High,UPI,TRUE,FALSE,7,0.6,August,Online
+ORD231,Papa John's,"Chicago, IL",2024-08-15 20:15:00,2024-08-15 20:40:00,25,Medium,Non-Veg,4,3.5,Medium,Card,TRUE,FALSE,7.142857143,1.142857143,August,Online
+ORD232,Little Caesars,"Houston, TX",2024-08-16 19:00:00,2024-08-16 19:20:00,20,Small,Vegan,2,2,Low,Wallet,TRUE,FALSE,10,1,August,Online
+ORD233,Marco's Pizza,"Phoenix, AZ",2024-08-17 13:00:00,2024-08-17 13:30:00,30,Medium,Non-Veg,3,3,High,UPI,FALSE,TRUE,10,1,August,Online
+ORD234,Domino's,"Miami, FL",2024-08-18 18:30:00,2024-08-18 19:10:00,40,Large,Veg,4,5,High,Card,TRUE,TRUE,8,0.8,August,Online
+ORD235,Papa John's,"Denver, CO",2024-08-19 20:15:00,2024-08-19 20:35:00,20,Small,Vegan,2,2.5,Medium,Cash,TRUE,FALSE,8,0.8,August,Offline
+ORD236,Little Caesars,"Boston, MA",2024-08-20 18:30:00,2024-08-20 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,FALSE,5.714285714,0.857142857,August,Online
+ORD237,Pizza Hut,"Dallas, TX",2024-08-21 19:45:00,2024-08-21 20:15:00,30,XL,Cheese Burst,5,4,High,Card,TRUE,FALSE,7.5,1.25,August,Online
+ORD238,Marco's Pizza,"Seattle, WA",2024-08-22 13:00:00,2024-08-22 13:25:00,25,Medium,Non-Veg,3,3.5,Low,UPI,FALSE,FALSE,7.142857143,0.857142857,August,Online
+ORD239,Domino's,"Denver, CO",2024-08-23 18:30:00,2024-08-23 18:50:00,20,Large,Veg,4,4.5,Medium,Cash,TRUE,FALSE,4.444444444,0.888888889,August,Offline
+ORD240,Papa John's,"Boston, MA",2024-08-24 20:15:00,2024-08-24 20:40:00,25,Small,Vegan,2,2,High,Wallet,TRUE,TRUE,12.5,1,August,Online
+ORD241,Little Caesars,"Dallas, TX",2024-08-25 18:30:00,2024-08-25 18:50:00,20,Medium,Non-Veg,3,3,High,UPI,TRUE,TRUE,6.666666667,1,August,Online
+ORD242,Pizza Hut,"Los Angeles, CA",2024-08-26 19:45:00,2024-08-26 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,FALSE,5.555555556,1.111111111,August,Offline
+ORD243,Marco's Pizza,"Chicago, IL",2024-08-27 13:00:00,2024-08-27 13:20:00,20,Medium,Non-Veg,3,3.5,Medium,Wallet,FALSE,FALSE,5.714285714,0.857142857,August,Online
+ORD244,Domino's,"Miami, FL",2024-08-28 18:30:00,2024-08-28 18:55:00,25,Large,Veg,4,5,High,Card,TRUE,FALSE,5,0.8,August,Online
+ORD245,Papa John's,"Denver, CO",2024-08-29 20:15:00,2024-08-29 20:40:00,25,Small,Vegan,2,2.5,Medium,Cash,TRUE,FALSE,10,0.8,August,Offline
+ORD246,Little Caesars,"Boston, MA",2024-08-30 18:30:00,2024-08-30 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,FALSE,5.714285714,0.857142857,August,Online
+ORD247,Pizza Hut,"Dallas, TX",2024-08-31 19:45:00,2024-08-31 20:10:00,25,XL,Cheese Burst,5,4,High,Card,TRUE,TRUE,6.25,1.25,August,Online
+ORD248,Marco's Pizza,"Seattle, WA",2024-09-01 13:00:00,2024-09-01 13:20:00,20,Medium,Non-Veg,3,3.5,Low,UPI,FALSE,TRUE,5.714285714,0.857142857,September,Online
+ORD249,Domino's,"Denver, CO",2024-09-02 18:30:00,2024-09-02 18:50:00,20,Large,Veg,4,4.5,Medium,Cash,TRUE,FALSE,4.444444444,0.888888889,September,Offline
+ORD250,Papa John's,"Boston, MA",2024-09-03 20:15:00,2024-09-03 20:40:00,25,Small,Vegan,2,2,High,Wallet,TRUE,FALSE,12.5,1,September,Online
+ORD251,Little Caesars,"Dallas, TX",2024-09-04 18:30:00,2024-09-04 18:50:00,20,Medium,Non-Veg,3,3,High,UPI,TRUE,FALSE,6.666666667,1,September,Online
+ORD252,Pizza Hut,"Los Angeles, CA",2024-09-05 19:45:00,2024-09-05 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,FALSE,5.555555556,1.111111111,September,Offline
+ORD253,Marco's Pizza,"Chicago, IL",2024-09-06 13:00:00,2024-09-06 13:20:00,20,Medium,Non-Veg,3,3.5,Medium,Wallet,FALSE,FALSE,5.714285714,0.857142857,September,Online
+ORD254,Domino's,"Miami, FL",2024-09-07 18:30:00,2024-09-07 18:55:00,25,Large,Veg,4,5,High,Card,TRUE,TRUE,5,0.8,September,Online
+ORD255,Papa John's,"Denver, CO",2024-09-08 20:15:00,2024-09-08 20:40:00,25,Small,Vegan,2,2.5,Medium,Cash,TRUE,TRUE,10,0.8,September,Offline
+ORD256,Little Caesars,"Boston, MA",2024-09-09 18:30:00,2024-09-09 18:50:00,20,Medium,Non-Veg,3,3.5,Low,Wallet,TRUE,FALSE,5.714285714,0.857142857,September,Online
+ORD257,Domino's,"San Francisco, CA",2024-09-10 18:00:00,2024-09-10 18:25:00,25,Large,Veg,3,5,High,Cash,TRUE,FALSE,5,0.6,September,Offline
+ORD258,Domino's,"Austin, TX",2024-09-11 19:15:00,2024-09-11 19:35:00,20,Medium,Non-Veg,2,3.5,Medium,Card,TRUE,FALSE,5.714285714,0.571428571,September,Online
+ORD259,Domino's,"Seattle, WA",2024-09-12 20:30:00,2024-09-12 20:50:00,20,Small,Vegan,1,2.5,Low,Wallet,TRUE,FALSE,8,0.4,September,Online
+ORD260,Domino's,"Chicago, IL",2024-09-13 18:45:00,2024-09-13 19:10:00,25,XL,Cheese Burst,5,4.5,High,UPI,TRUE,FALSE,5.555555556,1.111111111,September,Online
+ORD261,Domino's,"Miami, FL",2024-09-14 19:00:00,2024-09-14 19:20:00,20,Medium,Non-Veg,3,3,Medium,Cash,TRUE,TRUE,6.666666667,1,September,Offline
+ORD262,Domino's,"Denver, CO",2024-09-15 20:00:00,2024-09-15 20:25:00,25,Large,Veg,4,5,High,Card,TRUE,TRUE,5,0.8,September,Online
+ORD263,Domino's,"Boston, MA",2024-09-16 18:30:00,2024-09-16 18:50:00,20,Small,Vegan,2,2,Low,Wallet,TRUE,FALSE,10,1,September,Online
+ORD264,Domino's,"Dallas, TX",2024-09-17 19:45:00,2024-09-17 20:10:00,25,XL,Cheese Burst,5,4.5,Medium,UPI,TRUE,FALSE,5.555555556,1.111111111,September,Online
+ORD265,Domino's,"Los Angeles, CA",2024-09-18 18:00:00,2024-09-18 18:20:00,20,Medium,Non-Veg,3,3.5,High,Cash,TRUE,FALSE,5.714285714,0.857142857,September,Offline
+ORD266,Domino's,"New York, NY",2024-09-19 20:15:00,2024-09-19 20:40:00,25,Large,Veg,4,5,High,Card,TRUE,FALSE,5,0.8,September,Online
+ORD267,Domino's,"San Jose, CA",2024-09-10 18:00:00,2024-09-10 18:20:00,20,Medium,Veg,2,3,Low,Cash,TRUE,FALSE,6.666666667,0.666666667,September,Offline
+ORD268,Papa John's,"Austin, TX",2024-09-11 19:15:00,2024-09-11 19:45:00,30,Large,Non-Veg,4,6,Medium,Card,TRUE,FALSE,5,0.666666667,September,Online
+ORD269,Pizza Hut,"Seattle, WA",2024-09-12 20:30:00,2024-09-12 21:10:00,40,XL,Cheese Burst,5,8,High,Wallet,TRUE,FALSE,5,0.625,September,Online
+ORD270,Little Caesars,"Chicago, IL",2024-09-13 18:45:00,2024-09-13 19:05:00,20,Small,Vegan,1,2.5,Low,UPI,TRUE,FALSE,8,0.4,September,Online
+ORD271,Marco's Pizza,"Miami, FL",2024-09-14 19:00:00,2024-09-14 19:50:00,50,Large,Non-Veg,4,10,High,Cash,TRUE,TRUE,5,0.4,September,Offline
+ORD272,Domino's,"Denver, CO",2024-09-15 20:00:00,2024-09-15 20:35:00,35,Medium,Veg,3,5.5,Medium,Card,TRUE,TRUE,6.363636364,0.545454545,September,Online
+ORD273,Papa John's,"Boston, MA",2024-09-16 18:30:00,2024-09-16 18:50:00,20,Small,Vegan,2,2,Low,Wallet,TRUE,FALSE,10,1,September,Online
+ORD274,Pizza Hut,"Dallas, TX",2024-09-17 19:45:00,2024-09-17 20:25:00,40,XL,Cheese Burst,5,7.5,High,UPI,TRUE,FALSE,5.333333333,0.666666667,September,Online
+ORD275,Little Caesars,"Los Angeles, CA",2024-09-18 18:00:00,2024-09-18 18:30:00,30,Medium,Non-Veg,3,4,Medium,Cash,TRUE,FALSE,7.5,0.75,September,Offline
+ORD276,Marco's Pizza,"New York, NY",2024-09-19 20:15:00,2024-09-19 21:00:00,45,Large,Veg,4,9,High,Card,TRUE,FALSE,5,0.444444444,September,Online
+ORD278,Domino's,"New York, NY",2024-09-15 18:45:00,2024-09-15 19:10:00,25,Large,Veg,3,5,High,Domino's Cash,TRUE,TRUE,5,0.6,September,Offline
+ORD279,Pizza Hut,"Los Angeles, CA",2024-09-16 20:00:00,2024-09-16 20:30:00,30,XL,Cheese Burst,5,6.5,Medium,Card,TRUE,FALSE,4.615384615,0.769230769,September,Online
+ORD280,Papa John's,"Chicago, IL",2024-09-17 19:15:00,2024-09-17 19:35:00,20,Medium,Non-Veg,4,4,Low,UPI,TRUE,FALSE,5,1,September,Online
+ORD281,Little Caesars,"Houston, TX",2024-09-18 18:30:00,2024-09-18 19:05:00,35,Small,Vegan,2,7.5,High,Wallet,TRUE,FALSE,4.666666667,0.266666667,September,Online
+ORD282,Marco's Pizza,"Phoenix, AZ",2024-09-19 13:00:00,2024-09-19 13:20:00,20,Medium,Non-Veg,3,3.5,Low,Card,FALSE,FALSE,5.714285714,0.857142857,September,Online
+ORD283,Domino's,"Miami, FL",2024-09-20 18:45:00,2024-09-20 19:15:00,30,Large,Veg,4,6,Medium,Domino's Cash,TRUE,FALSE,5,0.666666667,September,Offline
+ORD284,Pizza Hut,"Denver, CO",2024-09-21 20:15:00,2024-09-21 20:40:00,25,XL,Cheese Burst,5,5,Low,UPI,TRUE,TRUE,5,1,September,Online
+ORD285,Papa John's,"Boston, MA",2024-09-22 19:30:00,2024-09-22 19:55:00,25,Small,Vegan,2,4,High,Wallet,TRUE,TRUE,6.25,0.5,September,Online
+ORD286,Little Caesars,"Dallas, TX",2024-09-23 18:00:00,2024-09-23 18:20:00,20,Medium,Non-Veg,3,3,Medium,Card,TRUE,FALSE,6.666666667,1,September,Online
+ORD287,Marco's Pizza,"Seattle, WA",2024-09-24 13:15:00,2024-09-24 13:45:00,30,Medium,Non-Veg,3,6,High,UPI,FALSE,FALSE,5,0.5,September,Online
+ORD288,Domino's,"New York, NY",2024-09-25 18:30:00,2024-09-25 19:00:00,30,Large,Veg,4,5.5,High,Domino's Cash,TRUE,FALSE,5.454545455,0.727272727,September,Offline
+ORD289,Pizza Hut,"Los Angeles, CA",2024-09-26 19:45:00,2024-09-26 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,FALSE,5.555555556,1.111111111,September,Offline
+ORD290,Papa John's,"Chicago, IL",2024-09-27 20:15:00,2024-09-27 20:40:00,25,Medium,Non-Veg,4,3.5,Medium,Card,TRUE,FALSE,7.142857143,1.142857143,September,Online
+ORD291,Little Caesars,"Houston, TX",2024-09-28 18:30:00,2024-09-28 18:50:00,20,Small,Vegan,2,2,Low,Wallet,TRUE,TRUE,10,1,September,Online
+ORD292,Marco's Pizza,"Phoenix, AZ",2024-09-29 13:00:00,2024-09-29 13:20:00,20,Medium,Non-Veg,3,3,Low,UPI,FALSE,TRUE,6.666666667,1,September,Online
+ORD293,Domino's,"Miami, FL",2024-09-30 18:30:00,2024-09-30 18:55:00,25,Large,Veg,4,5,High,Domino's Cash,TRUE,FALSE,5,0.8,September,Offline
+ORD294,Pizza Hut,"Denver, CO",2024-10-01 19:45:00,2024-10-01 20:10:00,25,XL,Cheese Burst,5,4,High,Card,TRUE,FALSE,6.25,1.25,October,Online
+ORD295,Papa John's,"Boston, MA",2024-10-02 20:15:00,2024-10-02 20:40:00,25,Small,Vegan,2,2.5,Medium,Wallet,TRUE,FALSE,10,0.8,October,Online
+ORD296,Little Caesars,"Dallas, TX",2024-10-03 18:30:00,2024-10-03 18:50:00,20,Medium,Non-Veg,3,3.5,Low,UPI,TRUE,FALSE,5.714285714,0.857142857,October,Online
+ORD297,Marco's Pizza,"Seattle, WA",2024-10-04 13:00:00,2024-10-04 13:20:00,20,Medium,Non-Veg,3,3.5,Low,Card,FALSE,FALSE,5.714285714,0.857142857,October,Online
+ORD298,Domino's,"New York, NY",2024-10-05 18:30:00,2024-10-05 18:55:00,25,Large,Veg,4,5,High,Domino's Cash,TRUE,TRUE,5,0.8,October,Offline
+ORD299,Pizza Hut,"Los Angeles, CA",2024-10-06 19:45:00,2024-10-06 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Cash,TRUE,TRUE,5.555555556,1.111111111,October,Offline
+ORD300,Papa John's,"Chicago, IL",2024-10-07 20:15:00,2024-10-07 20:40:00,25,Medium,Non-Veg,4,3.5,Medium,Card,TRUE,FALSE,7.142857143,1.142857143,October,Online
+ORD301,Little Caesars,"Houston, TX",2024-10-08 18:30:00,2024-10-08 18:50:00,20,Small,Vegan,2,2,Low,Wallet,TRUE,FALSE,10,1,October,Online
+ORD302,Marco's Pizza,"Phoenix, AZ",2024-10-09 13:00:00,2024-10-09 13:20:00,20,Medium,Non-Veg,3,3,Low,UPI,FALSE,FALSE,6.666666667,1,October,Online
+ORD303,Domino's,"Miami, FL",2024-10-10 18:30:00,2024-10-10 18:55:00,25,Large,Veg,4,5,High,Domino's Cash,TRUE,FALSE,5,0.8,October,Offline
+ORD304,Pizza Hut,"Denver, CO",2024-10-11 19:45:00,2024-10-11 20:10:00,25,XL,Cheese Burst,5,4.5,Low,Card,TRUE,FALSE,5.555555556,1.111111111,October,Online
+ORD305,Papa John's,"Boston, MA",2024-10-12 20:15:00,2024-10-12 20:40:00,25,Small,Vegan,2,2.5,Medium,Wallet,TRUE,TRUE,10,0.8,October,Online
+ORD306,Little Caesars,"Dallas, TX",2024-10-13 18:30:00,2024-10-13 18:50:00,20,Medium,Non-Veg,3,3.5,Low,UPI,TRUE,TRUE,5.714285714,0.857142857,October,Online
+ORD307,Domino's,"New York, NY",2024-08-26 18:00:00,2024-08-26 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,August,Online
+ORD308,Papa John's,"Chicago, IL",2024-08-27 19:15:00,2024-08-27 19:45:00,30,Large,Non-Veg,4,6,Medium,UPI,TRUE,FALSE,5,0.666666667,August,Online
+ORD309,Pizza Hut,"Los Angeles, CA",2024-08-28 20:30:00,2024-08-28 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,FALSE,5,0.625,August,Offline
+ORD310,Little Caesars,"Houston, TX",2024-08-29 18:45:00,2024-08-29 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,August,Offline
+ORD311,Marco's Pizza,"Phoenix, AZ",2024-08-30 19:00:00,2024-08-30 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,August,Online
+ORD312,Domino's,"Miami, FL",2024-08-31 20:00:00,2024-08-31 20:35:00,35,Medium,Veg,3,5.5,Medium,Wallet,TRUE,TRUE,6.363636364,0.545454545,August,Online
+ORD313,Papa John's,"Denver, CO",2024-09-01 18:30:00,2024-09-01 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,TRUE,10,1,September,Online
+ORD314,Pizza Hut,"Boston, MA",2024-09-02 19:45:00,2024-09-02 20:25:00,40,XL,Cheese Burst,5,7.5,High,Hut Points,TRUE,FALSE,5.333333333,0.666666667,September,Offline
+ORD315,Little Caesars,"Dallas, TX",2024-09-03 18:00:00,2024-09-03 18:30:00,30,Medium,Non-Veg,3,4,Medium,Cash,TRUE,FALSE,7.5,0.75,September,Offline
+ORD316,Marco's Pizza,"Seattle, WA",2024-09-04 20:15:00,2024-09-04 21:00:00,45,Large,Veg,4,9,High,Wallet,TRUE,FALSE,5,0.444444444,September,Online
+ORD317,Domino's,"San Jose, CA",2024-09-05 18:00:00,2024-09-05 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,September,Online
+ORD318,Papa John's,"Austin, TX",2024-09-06 19:15:00,2024-09-06 19:45:00,30,Large,Non-Veg,4,6,Medium,Cash,TRUE,FALSE,5,0.666666667,September,Offline
+ORD319,Pizza Hut,"San Diego, CA",2024-09-07 20:30:00,2024-09-07 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,TRUE,5,0.625,September,Offline
+ORD320,Little Caesars,"Jacksonville, FL",2024-09-08 18:45:00,2024-09-08 19:05:00,20,Small,Vegan,1,2.5,Low,Wallet,TRUE,TRUE,8,0.4,September,Online
+ORD321,Marco's Pizza,"Fort Worth, TX",2024-09-09 19:00:00,2024-09-09 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,September,Online
+ORD322,Domino's,"Columbus, OH",2024-09-10 20:00:00,2024-09-10 20:35:00,35,Medium,Veg,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,September,Online
+ORD323,Papa John's,"Charlotte, NC",2024-09-11 18:30:00,2024-09-11 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,September,Online
+ORD324,Pizza Hut,"Indianapolis, IN",2024-09-12 19:45:00,2024-09-12 20:25:00,40,XL,Cheese Burst,5,7.5,High,Hut Points,TRUE,FALSE,5.333333333,0.666666667,September,Offline
+ORD325,Little Caesars,"San Francisco, CA",2024-09-13 18:00:00,2024-09-13 18:30:00,30,Medium,Non-Veg,3,4,Medium,Cash,TRUE,FALSE,7.5,0.75,September,Offline
+ORD326,Marco's Pizza,"Charlotte, NC",2024-09-14 20:15:00,2024-09-14 21:00:00,45,Large,Veg,4,9,High,Wallet,TRUE,TRUE,5,0.444444444,September,Online
+ORD327,Domino's,"Detroit, MI",2024-09-15 18:00:00,2024-09-15 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,TRUE,6.666666667,0.666666667,September,Online
+ORD328,Papa John's,"El Paso, TX",2024-09-16 19:15:00,2024-09-16 19:45:00,30,Large,Non-Veg,4,6,Medium,Cash,TRUE,FALSE,5,0.666666667,September,Offline
+ORD329,Pizza Hut,"Memphis, TN",2024-09-17 20:30:00,2024-09-17 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,FALSE,5,0.625,September,Offline
+ORD330,Little Caesars,"Baltimore, MD",2024-09-18 18:45:00,2024-09-18 19:05:00,20,Small,Vegan,1,2.5,Low,Wallet,TRUE,FALSE,8,0.4,September,Online
+ORD331,Marco's Pizza,"Boston, MA",2024-09-19 19:00:00,2024-09-19 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,September,Online
+ORD332,Domino's,"New York, NY",2024-09-20 18:00:00,2024-09-20 18:20:00,20,Medium,Veg,2,3,Low,Domino's Cash,TRUE,FALSE,6.666666667,0.666666667,September,Offline
+ORD333,Papa John's,"Chicago, IL",2024-09-21 19:15:00,2024-09-21 19:45:00,30,Large,Non-Veg,4,6,Medium,UPI,TRUE,TRUE,5,0.666666667,September,Online
+ORD334,Pizza Hut,"Los Angeles, CA",2024-09-22 20:30:00,2024-09-22 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,TRUE,5,0.625,September,Offline
+ORD335,Little Caesars,"Houston, TX",2024-09-23 18:45:00,2024-09-23 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,September,Offline
+ORD336,Marco's Pizza,"Phoenix, AZ",2024-09-24 19:00:00,2024-09-24 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,September,Online
+ORD337,Domino's,"Miami, FL",2024-09-25 20:00:00,2024-09-25 20:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,September,Online
+ORD338,Papa John's,"Chicago, IL",2024-09-26 19:15:00,2024-09-26 19:45:00,30,Large,Non-Veg,4,6,Medium,UPI,TRUE,FALSE,5,0.666666667,September,Online
+ORD339,Pizza Hut,"Los Angeles, CA",2024-09-27 20:30:00,2024-09-27 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,FALSE,5,0.625,September,Offline
+ORD340,Little Caesars,"Houston, TX",2024-09-28 18:45:00,2024-09-28 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,September,Offline
+ORD341,Marco's Pizza,"Phoenix, AZ",2024-09-29 19:00:00,2024-09-29 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,TRUE,5,0.4,September,Online
+ORD342,Domino's,"Miami, FL",2024-09-30 20:00:00,2024-09-30 20:35:00,35,Medium,Veg,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,September,Online
+ORD343,Papa John's,"Denver, CO",2024-10-01 18:30:00,2024-10-01 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,October,Online
+ORD344,Pizza Hut,"Boston, MA",2024-10-02 19:45:00,2024-10-02 20:25:00,40,XL,Cheese Burst,5,7.5,High,Hut Points,TRUE,FALSE,5.333333333,0.666666667,October,Offline
+ORD345,Little Caesars,"Dallas, TX",2024-10-03 18:00:00,2024-10-03 18:30:00,30,Medium,Non-Veg,3,4,Medium,Cash,TRUE,FALSE,7.5,0.75,October,Offline
+ORD346,Marco's Pizza,"Seattle, WA",2024-10-04 20:15:00,2024-10-04 21:00:00,45,Large,Veg,4,9,High,Wallet,TRUE,FALSE,5,0.444444444,October,Online
+ORD347,Domino's,"San Jose, CA",2024-10-05 18:00:00,2024-10-05 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,TRUE,6.666666667,0.666666667,October,Online
+ORD348,Papa John's,"Austin, TX",2024-10-06 19:15:00,2024-10-06 19:45:00,30,Large,Non-Veg,4,6,Medium,Cash,TRUE,TRUE,5,0.666666667,October,Offline
+ORD349,Pizza Hut,"San Diego, CA",2024-10-07 20:30:00,2024-10-07 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,FALSE,5,0.625,October,Offline
+ORD350,Little Caesars,"Jacksonville, FL",2024-10-08 18:45:00,2024-10-08 19:05:00,20,Small,Vegan,1,2.5,Low,Wallet,TRUE,FALSE,8,0.4,October,Online
+ORD351,Marco's Pizza,"Fort Worth, TX",2024-10-09 19:00:00,2024-10-09 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,October,Online
+ORD352,Domino's,"Columbus, OH",2024-10-10 20:00:00,2024-10-10 20:35:00,35,Medium,Veg,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,October,Online
+ORD353,Papa John's,"Charlotte, NC",2024-10-11 18:30:00,2024-10-11 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,October,Online
+ORD354,Pizza Hut,"Indianapolis, IN",2024-10-12 19:45:00,2024-10-12 20:25:00,40,XL,Cheese Burst,5,7.5,High,Hut Points,TRUE,TRUE,5.333333333,0.666666667,October,Offline
+ORD355,Little Caesars,"San Francisco, CA",2024-10-13 18:00:00,2024-10-13 18:30:00,30,Medium,Non-Veg,3,4,Medium,Cash,TRUE,TRUE,7.5,0.75,October,Offline
+ORD356,Marco's Pizza,"Charlotte, NC",2024-10-14 20:15:00,2024-10-14 21:00:00,45,Large,Veg,4,9,High,Wallet,TRUE,FALSE,5,0.444444444,October,Online
+ORD357,Domino's,"Detroit, MI",2024-10-15 18:00:00,2024-10-15 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,October,Online
+ORD358,Papa John's,"El Paso, TX",2024-10-16 19:15:00,2024-10-16 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,October,Online
+ORD359,Pizza Hut,"Memphis, TN",2024-10-17 20:30:00,2024-10-17 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,FALSE,5,0.625,October,Offline
+ORD360,Little Caesars,"Baltimore, MD",2024-10-18 18:45:00,2024-10-18 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,October,Offline
+ORD361,Marco's Pizza,"Boston, MA",2024-10-19 19:00:00,2024-10-19 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,TRUE,5,0.4,October,Online
+ORD362,Domino's,"New York, NY",2024-10-20 18:00:00,2024-10-20 18:20:00,20,Medium,Veg,2,3,Low,Domino's Cash,TRUE,TRUE,6.666666667,0.666666667,October,Offline
+ORD363,Domino's,"Miami, FL",2024-10-21 20:00:00,2024-10-21 20:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,October,Online
+ORD364,Papa John's,"Chicago, IL",2024-10-22 19:15:00,2024-10-22 19:45:00,30,Large,Non-Veg,4,6,Medium,UPI,TRUE,FALSE,5,0.666666667,October,Online
+ORD365,Pizza Hut,"Los Angeles, CA",2024-10-23 20:30:00,2024-10-23 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,FALSE,5,0.625,October,Offline
+ORD366,Little Caesars,"Houston, TX",2024-10-24 18:45:00,2024-10-24 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,October,Offline
+ORD367,Marco's Pizza,"Phoenix, AZ",2024-10-25 19:00:00,2024-10-25 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,October,Online
+ORD368,Domino's,"Miami, FL",2024-10-26 20:00:00,2024-10-26 20:35:00,35,Medium,Veg,3,5.5,Medium,Wallet,TRUE,TRUE,6.363636364,0.545454545,October,Online
+ORD369,Papa John's,"Denver, CO",2024-10-27 18:30:00,2024-10-27 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,TRUE,10,1,October,Online
+ORD370,Pizza Hut,"Boston, MA",2024-10-28 19:45:00,2024-10-28 20:25:00,40,XL,Cheese Burst,5,7.5,High,Hut Points,TRUE,FALSE,5.333333333,0.666666667,October,Offline
+ORD371,Little Caesars,"Dallas, TX",2024-10-29 18:00:00,2024-10-29 18:30:00,30,Medium,Non-Veg,3,4,Medium,Card,TRUE,FALSE,7.5,0.75,October,Online
+ORD372,Marco's Pizza,"Seattle, WA",2024-10-30 20:15:00,2024-10-30 21:00:00,45,Large,Veg,4,9,High,Wallet,TRUE,FALSE,5,0.444444444,October,Online
+ORD373,Domino's,"San Jose, CA",2024-10-31 18:00:00,2024-10-31 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,October,Online
+ORD374,Papa John's,"Austin, TX",2024-11-01 19:15:00,2024-11-01 19:45:00,30,Large,Non-Veg,4,6,Medium,Cash,TRUE,FALSE,5,0.666666667,November,Offline
+ORD375,Pizza Hut,"San Diego, CA",2024-11-02 20:30:00,2024-11-02 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,TRUE,5,0.625,November,Offline
+ORD376,Little Caesars,"Jacksonville, FL",2024-11-03 18:45:00,2024-11-03 19:05:00,20,Small,Vegan,1,2.5,Low,Wallet,TRUE,TRUE,8,0.4,November,Online
+ORD377,Marco's Pizza,"Fort Worth, TX",2024-11-04 19:00:00,2024-11-04 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,November,Online
+ORD378,Domino's,"Columbus, OH",2024-11-05 20:00:00,2024-11-05 20:35:00,35,Medium,Veg,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,November,Online
+ORD379,Papa John's,"Charlotte, NC",2024-11-06 18:30:00,2024-11-06 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,November,Online
+ORD380,Pizza Hut,"Indianapolis, IN",2024-11-07 19:45:00,2024-11-07 20:25:00,40,XL,Cheese Burst,5,7.5,High,Hut Points,TRUE,FALSE,5.333333333,0.666666667,November,Offline
+ORD381,Little Caesars,"San Francisco, CA",2024-11-08 18:00:00,2024-11-08 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,November,Online
+ORD382,Marco's Pizza,"Charlotte, NC",2024-11-09 20:15:00,2024-11-09 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,TRUE,5,0.444444444,November,Offline
+ORD383,Domino's,"Detroit, MI",2024-11-10 18:00:00,2024-11-10 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,TRUE,6.666666667,0.666666667,November,Online
+ORD384,Papa John's,"El Paso, TX",2024-11-11 19:15:00,2024-11-11 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,November,Online
+ORD385,Pizza Hut,"Memphis, TN",2024-11-12 20:30:00,2024-11-12 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,FALSE,5,0.625,November,Offline
+ORD386,Little Caesars,"Baltimore, MD",2024-11-13 18:45:00,2024-11-13 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,November,Offline
+ORD387,Marco's Pizza,"Boston, MA",2024-11-14 19:00:00,2024-11-14 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,November,Online
+ORD388,Domino's,"New York, NY",2024-11-15 18:00:00,2024-11-15 18:20:00,20,Medium,Veg,2,3,Low,Domino's Cash,TRUE,FALSE,6.666666667,0.666666667,November,Offline
+ORD389,Domino's,"Miami, FL",2024-11-16 20:00:00,2024-11-16 20:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,TRUE,6.666666667,0.666666667,November,Online
+ORD390,Papa John's,"Chicago, IL",2024-11-17 19:15:00,2024-11-17 19:45:00,30,Large,Non-Veg,4,6,Medium,UPI,TRUE,TRUE,5,0.666666667,November,Online
+ORD391,Pizza Hut,"Los Angeles, CA",2024-11-18 20:30:00,2024-11-18 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,FALSE,5,0.625,November,Offline
+ORD392,Little Caesars,"Houston, TX",2024-11-19 18:45:00,2024-11-19 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,November,Offline
+ORD393,Marco's Pizza,"Phoenix, AZ",2024-11-20 19:00:00,2024-11-20 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,November,Online
+ORD394,Domino's,"Miami, FL",2024-11-21 20:00:00,2024-11-21 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,November,Online
+ORD395,Papa John's,"Denver, CO",2024-11-22 18:30:00,2024-11-22 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,November,Online
+ORD396,Pizza Hut,"Boston, MA",2024-11-23 19:45:00,2024-11-23 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Hut Points,TRUE,TRUE,5.333333333,0.666666667,November,Offline
+ORD397,Little Caesars,"Dallas, TX",2024-11-24 18:00:00,2024-11-24 18:30:00,30,Medium,Non-Veg,3,4,Medium,Card,TRUE,TRUE,7.5,0.75,November,Online
+ORD398,Marco's Pizza,"Seattle, WA",2024-11-25 20:15:00,2024-11-25 21:00:00,45,Large,Veg,4,9,High,Wallet,TRUE,FALSE,5,0.444444444,November,Online
+ORD399,Domino's,"San Jose, CA",2024-11-26 18:00:00,2024-11-26 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,November,Online
+ORD400,Papa John's,"Austin, TX",2024-11-27 19:15:00,2024-11-27 19:45:00,30,Large,Non-Veg,4,6,Medium,Cash,TRUE,FALSE,5,0.666666667,November,Offline
+ORD401,Pizza Hut,"San Diego, CA",2024-11-28 20:30:00,2024-11-28 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,FALSE,5,0.625,November,Offline
+ORD402,Little Caesars,"Jacksonville, FL",2024-11-29 18:45:00,2024-11-29 19:05:00,20,Small,Vegan,1,2.5,Low,Wallet,TRUE,FALSE,8,0.4,November,Online
+ORD403,Marco's Pizza,"Fort Worth, TX",2024-11-30 19:00:00,2024-11-30 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,TRUE,5,0.4,November,Online
+ORD404,Domino's,"Columbus, OH",2024-12-01 20:00:00,2024-12-01 20:35:00,35,Medium,Veg,3,5.5,Medium,Wallet,TRUE,TRUE,6.363636364,0.545454545,December,Online
+ORD405,Papa John's,"Charlotte, NC",2024-12-02 18:30:00,2024-12-02 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,December,Online
+ORD406,Pizza Hut,"Indianapolis, IN",2024-12-03 19:45:00,2024-12-03 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Hut Points,TRUE,FALSE,5.333333333,0.666666667,December,Offline
+ORD407,Little Caesars,"San Francisco, CA",2024-12-04 18:00:00,2024-12-04 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,December,Online
+ORD408,Marco's Pizza,"Charlotte, NC",2024-12-05 20:15:00,2024-12-05 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,December,Offline
+ORD409,Domino's,"Detroit, MI",2024-12-06 18:00:00,2024-12-06 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,December,Online
+ORD410,Papa John's,"El Paso, TX",2024-12-07 19:15:00,2024-12-07 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,TRUE,5,0.666666667,December,Online
+ORD411,Pizza Hut,"Memphis, TN",2024-12-08 20:30:00,2024-12-08 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,TRUE,5,0.625,December,Offline
+ORD412,Little Caesars,"Baltimore, MD",2024-12-09 18:45:00,2024-12-09 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,December,Offline
+ORD413,Marco's Pizza,"Boston, MA",2024-12-10 19:00:00,2024-12-10 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,December,Online
+ORD414,Domino's,"New York, NY",2024-12-11 18:00:00,2024-12-11 18:20:00,20,Medium,Veg,2,3,Low,Domino's Cash,TRUE,FALSE,6.666666667,0.666666667,December,Offline
+ORD415,Domino's,"Miami, FL",2024-12-12 20:00:00,2024-12-12 20:20:00,20,Medium,Thin Crust,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,December,Online
+ORD416,Papa John's,"Chicago, IL",2024-12-13 19:15:00,2024-12-13 19:45:00,30,Large,Deep Dish,4,6,Medium,UPI,TRUE,FALSE,5,0.666666667,December,Online
+ORD417,Pizza Hut,"Los Angeles, CA",2024-12-14 20:30:00,2024-12-14 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,TRUE,5,0.625,December,Offline
+ORD418,Little Caesars,"Houston, TX",2024-12-15 18:45:00,2024-12-15 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,December,Offline
+ORD419,Marco's Pizza,"Phoenix, AZ",2024-12-16 19:00:00,2024-12-16 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,December,Online
+ORD420,Domino's,"Miami, FL",2024-12-17 20:00:00,2024-12-17 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,December,Online
+ORD421,Papa John's,"Denver, CO",2024-12-18 18:30:00,2024-12-18 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,December,Online
+ORD422,Pizza Hut,"Boston, MA",2024-12-19 19:45:00,2024-12-19 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,December,Online
+ORD423,Little Caesars,"Dallas, TX",2024-12-20 18:00:00,2024-12-20 18:30:00,30,Medium,Non-Veg,3,4,Medium,Card,TRUE,FALSE,7.5,0.75,December,Online
+ORD424,Marco's Pizza,"Seattle, WA",2024-12-21 20:15:00,2024-12-21 21:00:00,45,Large,Veg,4,9,High,Wallet,TRUE,TRUE,5,0.444444444,December,Online
+ORD425,Domino's,"Miami, FL",2024-12-12 20:00:00,2024-12-12 20:20:00,20,Medium,Thin Crust,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,December,Online
+ORD426,Papa John's,"Chicago, IL",2024-12-13 19:15:00,2024-12-13 19:45:00,30,Large,Deep Dish,4,6,Medium,UPI,TRUE,FALSE,5,0.666666667,December,Online
+ORD427,Pizza Hut,"Los Angeles, CA",2024-12-14 20:30:00,2024-12-14 21:10:00,40,XL,Cheese Burst,5,8,High,Hut Points,TRUE,TRUE,5,0.625,December,Offline
+ORD428,Little Caesars,"Houston, TX",2024-12-15 18:45:00,2024-12-15 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,December,Offline
+ORD429,Marco's Pizza,"Phoenix, AZ",2024-12-16 19:00:00,2024-12-16 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,December,Online
+ORD430,Domino's,"Miami, FL",2024-12-17 20:00:00,2024-12-17 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,December,Online
+ORD431,Papa John's,"Denver, CO",2024-12-18 18:30:00,2024-12-18 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,December,Online
+ORD432,Pizza Hut,"Boston, MA",2024-12-19 19:45:00,2024-12-19 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,December,Online
+ORD433,Little Caesars,"Dallas, TX",2024-12-20 18:00:00,2024-12-20 18:30:00,30,Medium,Non-Veg,3,4,Medium,Card,TRUE,FALSE,7.5,0.75,December,Online
+ORD434,Marco's Pizza,"Seattle, WA",2024-12-21 20:15:00,2024-12-21 21:00:00,45,Large,Veg,4,9,High,Wallet,TRUE,TRUE,5,0.444444444,December,Online
+ORD435,Domino's,"San Jose, CA",2024-12-22 18:00:00,2024-12-22 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,TRUE,6.666666667,0.666666667,December,Online
+ORD436,Papa John's,"Austin, TX",2024-12-23 19:15:00,2024-12-23 19:45:00,30,Large,Non-Veg,4,6,Medium,Cash,TRUE,FALSE,5,0.666666667,December,Offline
+ORD437,Pizza Hut,"San Diego, CA",2024-12-24 20:30:00,2024-12-24 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,December,Online
+ORD438,Little Caesars,"Jacksonville, FL",2024-12-25 18:45:00,2024-12-25 19:05:00,20,Small,Vegan,1,2.5,Low,Wallet,TRUE,FALSE,8,0.4,December,Online
+ORD439,Marco's Pizza,"Fort Worth, TX",2024-12-26 19:00:00,2024-12-26 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,December,Online
+ORD440,Domino's,"Columbus, OH",2024-12-27 20:00:00,2024-12-27 20:35:00,35,Medium,Veg,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,December,Online
+ORD441,Papa John's,"Charlotte, NC",2024-12-28 18:30:00,2024-12-28 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,TRUE,10,1,December,Online
+ORD442,Pizza Hut,"Indianapolis, IN",2024-12-29 19:45:00,2024-12-29 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,TRUE,5.333333333,0.666666667,December,Online
+ORD443,Little Caesars,"San Francisco, CA",2024-12-30 18:00:00,2024-12-30 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,December,Online
+ORD444,Marco's Pizza,"Charlotte, NC",2024-12-31 20:15:00,2024-12-31 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,December,Offline
+ORD445,Domino's,"Detroit, MI",2025-01-01 18:00:00,2025-01-01 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,January,Online
+ORD446,Papa John's,"El Paso, TX",2025-01-02 19:15:00,2025-01-02 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,January,Online
+ORD447,Pizza Hut,"Memphis, TN",2025-01-03 20:30:00,2025-01-03 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,January,Online
+ORD448,Little Caesars,"Baltimore, MD",2025-01-04 18:45:00,2025-01-04 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,January,Offline
+ORD449,Marco's Pizza,"Boston, MA",2025-01-05 19:00:00,2025-01-05 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,TRUE,5,0.4,January,Online
+ORD450,Domino's,"New York, NY",2025-01-06 18:00:00,2025-01-06 18:20:00,20,Medium,Veg,2,3,Low,Domino's Cash,TRUE,FALSE,6.666666667,0.666666667,January,Offline
+ORD451,Papa John's,"Chicago, IL",2025-01-07 19:15:00,2025-01-07 19:45:00,30,Large,Deep Dish,4,6,Medium,UPI,TRUE,FALSE,5,0.666666667,January,Online
+ORD452,Pizza Hut,"Los Angeles, CA",2025-01-08 20:30:00,2025-01-08 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,January,Online
+ORD453,Little Caesars,"Houston, TX",2025-01-09 18:00:00,2025-01-09 18:30:00,30,Medium,Thai Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,January,Online
+ORD454,Marco's Pizza,"Atlanta, GA",2025-01-10 19:15:00,2025-01-10 19:50:00,35,Large,Sicilian,4,6.5,High,UPI,TRUE,FALSE,5.384615385,0.615384615,January,Online
+ORD455,Domino's,"Orlando, FL",2025-01-11 20:30:00,2025-01-11 21:10:00,40,XL,Cheese Burst,5,8,High,Wallet,TRUE,TRUE,5,0.625,January,Online
+ORD456,Papa John's,"Austin, TX",2025-01-12 18:45:00,2025-01-12 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,January,Offline
+ORD457,Pizza Hut,"Seattle, WA",2025-01-13 19:00:00,2025-01-13 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,January,Online
+ORD458,Domino's,"Miami, FL",2025-01-14 20:00:00,2025-01-14 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Domino's Cash,TRUE,FALSE,6.363636364,0.545454545,January,Offline
+ORD459,Papa John's,"Denver, CO",2025-01-15 18:30:00,2025-01-15 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,January,Online
+ORD460,Pizza Hut,"Boston, MA",2025-01-16 19:45:00,2025-01-16 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,January,Online
+ORD461,Domino's,"New York, NY",2025-01-17 18:00:00,2025-01-17 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,January,Online
+ORD462,Papa John's,"Chicago, IL",2025-01-18 19:15:00,2025-01-18 19:45:00,30,Large,Deep Dish,4,6,Medium,UPI,TRUE,TRUE,5,0.666666667,January,Online
+ORD463,Little Caesars,"Los Angeles, CA",2025-01-19 20:30:00,2025-01-19 21:10:00,40,XL,Cheese Burst,5,8,High,Wallet,TRUE,TRUE,5,0.625,January,Online
+ORD464,Marco's Pizza,"Houston, TX",2025-01-20 18:45:00,2025-01-20 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,January,Offline
+ORD465,Domino's,"Phoenix, AZ",2025-01-21 19:00:00,2025-01-21 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,January,Online
+ORD466,Papa John's,"Philadelphia, PA",2025-01-22 20:00:00,2025-01-22 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,January,Online
+ORD467,Pizza Hut,"San Antonio, TX",2025-01-23 18:30:00,2025-01-23 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,January,Online
+ORD468,Little Caesars,"San Diego, CA",2025-01-24 19:45:00,2025-01-24 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,January,Online
+ORD469,Marco's Pizza,"Dallas, TX",2025-01-25 18:00:00,2025-01-25 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,TRUE,7.5,0.75,January,Online
+ORD470,Domino's,"San Jose, CA",2025-01-26 20:15:00,2025-01-26 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,TRUE,5,0.444444444,January,Offline
+ORD471,Papa John's,"Austin, TX",2025-01-27 18:00:00,2025-01-27 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,January,Online
+ORD472,Pizza Hut,"Jacksonville, FL",2025-01-28 19:15:00,2025-01-28 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,January,Online
+ORD473,Little Caesars,"Fort Worth, TX",2025-01-29 20:30:00,2025-01-29 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,January,Online
+ORD474,Marco's Pizza,"Columbus, OH",2025-01-30 18:45:00,2025-01-30 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,January,Offline
+ORD475,Domino's,"Charlotte, NC",2025-01-31 19:00:00,2025-01-31 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,January,Online
+ORD476,Papa John's,"San Francisco, CA",2025-02-01 20:00:00,2025-02-01 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,TRUE,6.363636364,0.545454545,February,Online
+ORD477,Pizza Hut,"Indianapolis, IN",2025-02-02 18:30:00,2025-02-02 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,TRUE,10,1,February,Online
+ORD478,Little Caesars,"Seattle, WA",2025-02-03 19:45:00,2025-02-03 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,February,Online
+ORD479,Marco's Pizza,"Denver, CO",2025-02-04 18:00:00,2025-02-04 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,February,Online
+ORD480,Domino's,"Washington, DC",2025-02-05 20:15:00,2025-02-05 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,February,Offline
+ORD481,Papa John's,"Boston, MA",2025-02-06 18:00:00,2025-02-06 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,February,Online
+ORD482,Pizza Hut,"Nashville, TN",2025-02-07 19:15:00,2025-02-07 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,February,Online
+ORD483,Little Caesars,"Baltimore, MD",2025-02-08 20:30:00,2025-02-08 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,TRUE,5,0.625,February,Online
+ORD484,Marco's Pizza,"Louisville, KY",2025-02-09 18:45:00,2025-02-09 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,February,Offline
+ORD485,Domino's,"Milwaukee, WI",2025-02-10 19:00:00,2025-02-10 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,February,Online
+ORD486,Papa John's,"Albuquerque, NM",2025-02-11 20:00:00,2025-02-11 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,February,Online
+ORD487,Pizza Hut,"Tucson, AZ",2025-02-12 18:30:00,2025-02-12 18:50:00,20,Small,Vegan,2,2,Low,Wallet,TRUE,FALSE,10,1,February,Online
+ORD488,Little Caesars,"Fresno, CA",2025-02-13 19:45:00,2025-02-13 20:25:00,40,XL,Cheese Burst,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,February,Online
+ORD489,Marco's Pizza,"Sacramento, CA",2025-02-14 18:00:00,2025-02-14 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,February,Online
+ORD490,Domino's,"Kansas City, MO",2025-02-15 19:15:00,2025-02-15 19:45:00,30,Large,Deep Dish,4,6,Medium,UPI,TRUE,TRUE,5,0.666666667,February,Online
+ORD491,Papa John's,"Long Beach, CA",2025-02-16 20:30:00,2025-02-16 21:10:00,40,XL,Cheese Burst,5,8,High,Wallet,TRUE,TRUE,5,0.625,February,Online
+ORD492,Pizza Hut,"Mesa, AZ",2025-02-17 18:45:00,2025-02-17 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,February,Offline
+ORD493,Domino's,"Atlanta, GA",2025-02-18 19:00:00,2025-02-18 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,February,Online
+ORD494,Papa John's,"Omaha, NE",2025-02-19 20:00:00,2025-02-19 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,February,Online
+ORD495,Pizza Hut,"Raleigh, NC",2025-02-20 18:30:00,2025-02-20 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,February,Online
+ORD496,Little Caesars,"Miami, FL",2025-02-21 19:45:00,2025-02-21 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,February,Online
+ORD497,Marco's Pizza,"Tulsa, OK",2025-02-22 18:00:00,2025-02-22 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,TRUE,7.5,0.75,February,Online
+ORD498,Domino's,"Minneapolis, MN",2025-02-23 20:15:00,2025-02-23 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,TRUE,5,0.444444444,February,Offline
+ORD499,Papa John's,"Arlington, TX",2025-02-24 18:00:00,2025-02-24 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,February,Online
+ORD500,Pizza Hut,"New Orleans, LA",2025-02-25 19:15:00,2025-02-25 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,February,Online
+ORD501,Little Caesars,"Wichita, KS",2025-02-26 20:30:00,2025-02-26 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,February,Online
+ORD502,Marco's Pizza,"Cleveland, OH",2025-02-27 18:45:00,2025-02-27 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,February,Offline
+ORD503,Domino's,"Tampa, FL",2025-02-28 19:00:00,2025-02-28 19:50:00,50,Large,Non-Veg,4,10,High,Domino's Cash,TRUE,FALSE,5,0.4,February,Offline
+ORD504,Papa John's,"Bakersfield, CA",2025-03-01 20:00:00,2025-03-01 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,TRUE,6.363636364,0.545454545,March,Online
+ORD505,Pizza Hut,"Aurora, CO",2025-03-02 18:30:00,2025-03-02 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,TRUE,10,1,March,Online
+ORD506,Little Caesars,"Anaheim, CA",2025-03-03 19:45:00,2025-03-03 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,March,Online
+ORD507,Marco's Pizza,"Honolulu, HI",2025-03-04 18:00:00,2025-03-04 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,March,Online
+ORD508,Domino's,"Lexington, KY",2025-03-05 20:15:00,2025-03-05 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,March,Offline
+ORD509,Papa John's,"Stockton, CA",2025-03-06 18:00:00,2025-03-06 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,March,Online
+ORD510,Pizza Hut,"Corpus Christi, TX",2025-03-07 19:15:00,2025-03-07 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,March,Online
+ORD511,Little Caesars,"Henderson, NV",2025-03-08 20:30:00,2025-03-08 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,TRUE,5,0.625,March,Online
+ORD512,Marco's Pizza,"Riverside, CA",2025-03-09 18:45:00,2025-03-09 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,March,Offline
+ORD513,Domino's,"Newark, NJ",2025-03-10 19:00:00,2025-03-10 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,March,Online
+ORD514,Papa John's,"St. Paul, MN",2025-03-11 20:00:00,2025-03-11 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,March,Online
+ORD515,Pizza Hut,"Plano, TX",2025-03-12 18:30:00,2025-03-12 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,March,Online
+ORD516,Little Caesars,"Lincoln, NE",2025-03-13 19:45:00,2025-03-13 20:25:00,40,XL,Cheese Burst,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,March,Online
+ORD517,Marco's Pizza,"Boise, ID",2025-03-14 18:00:00,2025-03-14 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,March,Online
+ORD518,Domino's,"Reno, NV",2025-03-15 19:15:00,2025-03-15 19:45:00,30,Large,Deep Dish,4,6,Medium,UPI,TRUE,TRUE,5,0.666666667,March,Online
+ORD519,Papa John's,"Scottsdale, AZ",2025-03-16 20:30:00,2025-03-16 21:10:00,40,XL,Cheese Burst,5,8,High,Wallet,TRUE,TRUE,5,0.625,March,Online
+ORD520,Pizza Hut,"Irving, TX",2025-03-17 18:45:00,2025-03-17 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,March,Offline
+ORD521,Domino's,"Orlando, FL",2025-03-18 19:00:00,2025-03-18 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,March,Online
+ORD522,Papa John's,"Madison, WI",2025-03-19 20:00:00,2025-03-19 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,March,Online
+ORD523,Pizza Hut,"Lubbock, TX",2025-03-20 18:30:00,2025-03-20 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,March,Online
+ORD524,Little Caesars,"Chandler, AZ",2025-03-21 19:45:00,2025-03-21 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,March,Online
+ORD525,Marco's Pizza,"Garland, TX",2025-03-22 18:00:00,2025-03-22 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,TRUE,7.5,0.75,March,Online
+ORD526,Domino's,"Glendale, AZ",2025-03-23 20:15:00,2025-03-23 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,TRUE,5,0.444444444,March,Offline
+ORD527,Papa John's,"Akron, OH",2025-03-24 18:00:00,2025-03-24 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,March,Online
+ORD528,Pizza Hut,"Baton Rouge, LA",2025-03-25 19:15:00,2025-03-25 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,March,Online
+ORD529,Little Caesars,"Durham, NC",2025-03-26 20:30:00,2025-03-26 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,March,Online
+ORD530,Marco's Pizza,"Chula Vista, CA",2025-03-27 18:45:00,2025-03-27 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,March,Offline
+ORD531,Domino's,"Fort Wayne, IN",2025-03-28 19:00:00,2025-03-28 19:50:00,50,Large,Non-Veg,4,10,High,Domino's Cash,TRUE,FALSE,5,0.4,March,Offline
+ORD532,Papa John's,"St. Petersburg, FL",2025-03-29 20:00:00,2025-03-29 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,TRUE,6.363636364,0.545454545,March,Online
+ORD533,Pizza Hut,"Jersey City, NJ",2025-03-30 18:30:00,2025-03-30 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,TRUE,10,1,March,Online
+ORD534,Little Caesars,"St. Louis, MO",2025-03-31 19:45:00,2025-03-31 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,March,Online
+ORD535,Marco's Pizza,"Norfolk, VA",2025-04-01 18:00:00,2025-04-01 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,April,Online
+ORD536,Domino's,"Laredo, TX",2025-04-02 20:15:00,2025-04-02 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,April,Offline
+ORD537,Papa John's,"Chandler, AZ",2025-04-03 18:00:00,2025-04-03 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,April,Online
+ORD538,Pizza Hut,"Lubbock, TX",2025-04-04 19:15:00,2025-04-04 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,April,Online
+ORD539,Little Caesars,"Garland, TX",2025-04-05 20:30:00,2025-04-05 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,TRUE,5,0.625,April,Online
+ORD540,Marco's Pizza,"Glendale, AZ",2025-04-06 18:45:00,2025-04-06 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,April,Offline
+ORD541,Domino's,"Akron, OH",2025-04-07 19:00:00,2025-04-07 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,April,Online
+ORD542,Papa John's,"Baton Rouge, LA",2025-04-08 20:00:00,2025-04-08 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,April,Online
+ORD543,Pizza Hut,"Durham, NC",2025-04-09 18:30:00,2025-04-09 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,April,Online
+ORD544,Domino's,"Austin, TX",2025-04-10 19:00:00,2025-04-10 19:45:00,45,Large,Thai Chicken,4,7,Medium,Card,TRUE,FALSE,6.428571429,0.571428571,April,Online
+ORD545,Papa John's,"Denver, CO",2025-04-11 20:15:00,2025-04-11 20:55:00,40,Medium,Sicilian,3,6.5,High,Wallet,TRUE,FALSE,6.153846154,0.461538462,April,Online
+ORD546,Pizza Hut,"Miami, FL",2025-04-12 18:45:00,2025-04-12 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,April,Offline
+ORD547,Little Caesars,"Seattle, WA",2025-04-13 19:30:00,2025-04-13 20:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,TRUE,5,0.625,April,Online
+ORD548,Marco's Pizza,"Portland, OR",2025-04-14 18:00:00,2025-04-14 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,April,Online
+ORD549,Domino's,"Chicago, IL",2025-04-15 20:15:00,2025-04-15 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,April,Offline
+ORD550,Papa John's,"Boston, MA",2025-04-16 18:00:00,2025-04-16 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,April,Online
+ORD551,Pizza Hut,"Atlanta, GA",2025-04-17 19:15:00,2025-04-17 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,April,Online
+ORD552,Little Caesars,"Phoenix, AZ",2025-04-18 20:30:00,2025-04-18 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,April,Online
+ORD553,Marco's Pizza,"San Diego, CA",2025-04-19 18:45:00,2025-04-19 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,April,Offline
+ORD554,Domino's,"Columbus, OH",2025-04-20 19:00:00,2025-04-20 19:50:00,50,Large,Non-Veg,4,10,High,Domino's Cash,TRUE,TRUE,5,0.4,April,Offline
+ORD555,Papa John's,"Charlotte, NC",2025-04-21 20:00:00,2025-04-21 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,April,Online
+ORD556,Pizza Hut,"Nashville, TN",2025-04-22 18:30:00,2025-04-22 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,April,Online
+ORD557,Little Caesars,"Oklahoma City, OK",2025-04-23 19:45:00,2025-04-23 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,April,Online
+ORD558,Marco's Pizza,"Las Vegas, NV",2025-04-24 18:00:00,2025-04-24 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,April,Online
+ORD559,Domino's,"Indianapolis, IN",2025-04-25 20:15:00,2025-04-25 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,April,Offline
+ORD560,Papa John's,"San Jose, CA",2025-04-26 18:00:00,2025-04-26 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,TRUE,6.666666667,0.666666667,April,Online
+ORD561,Pizza Hut,"Jacksonville, FL",2025-04-27 19:15:00,2025-04-27 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,TRUE,5,0.666666667,April,Online
+ORD562,Little Caesars,"Fort Worth, TX",2025-04-28 20:30:00,2025-04-28 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,April,Online
+ORD563,Marco's Pizza,"Memphis, TN",2025-04-29 18:45:00,2025-04-29 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,April,Offline
+ORD564,Domino's,"Baltimore, MD",2025-04-30 19:00:00,2025-04-30 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,April,Online
+ORD565,Papa John's,"Milwaukee, WI",2025-05-01 20:00:00,2025-05-01 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,May,Online
+ORD566,Pizza Hut,"Albuquerque, NM",2025-05-02 18:30:00,2025-05-02 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,May,Online
+ORD567,Little Caesars,"Tucson, AZ",2025-05-03 19:45:00,2025-05-03 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,TRUE,5.333333333,0.666666667,May,Online
+ORD568,Marco's Pizza,"Fresno, CA",2025-05-04 18:00:00,2025-05-04 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,TRUE,7.5,0.75,May,Online
+ORD569,Domino's,"Sacramento, CA",2025-05-05 20:15:00,2025-05-05 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,May,Offline
+ORD570,Papa John's,"Milwaukee, WI",2025-05-01 20:00:00,2025-05-01 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,May,Online
+ORD571,Domino's,"New York, NY",2025-05-07 19:00:00,2025-05-07 19:45:00,45,Large,Thai Chicken,4,7,Medium,Card,TRUE,FALSE,6.428571429,0.571428571,May,Online
+ORD572,Papa John's,"Los Angeles, CA",2025-05-08 20:15:00,2025-05-08 20:55:00,40,Medium,Sicilian,3,6.5,High,Wallet,TRUE,FALSE,6.153846154,0.461538462,May,Online
+ORD573,Pizza Hut,"Chicago, IL",2025-05-09 18:45:00,2025-05-09 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,May,Offline
+ORD574,Little Caesars,"Houston, TX",2025-05-10 19:30:00,2025-05-10 20:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,TRUE,5,0.625,May,Online
+ORD575,Marco's Pizza,"Phoenix, AZ",2025-05-11 18:00:00,2025-05-11 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,TRUE,7.5,0.75,May,Online
+ORD576,Domino's,"Philadelphia, PA",2025-05-12 20:15:00,2025-05-12 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,May,Offline
+ORD577,Papa John's,"San Antonio, TX",2025-05-13 18:00:00,2025-05-13 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,May,Online
+ORD578,Pizza Hut,"San Diego, CA",2025-05-14 19:15:00,2025-05-14 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,May,Online
+ORD579,Little Caesars,"Dallas, TX",2025-05-15 20:30:00,2025-05-15 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,May,Online
+ORD580,Marco's Pizza,"San Jose, CA",2025-05-16 18:45:00,2025-05-16 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,May,Offline
+ORD581,Domino's,"Austin, TX",2025-05-17 19:00:00,2025-05-17 19:50:00,50,Large,Non-Veg,4,10,High,Domino's Cash,TRUE,TRUE,5,0.4,May,Offline
+ORD582,Papa John's,"Jacksonville, FL",2025-05-18 20:00:00,2025-05-18 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,TRUE,6.363636364,0.545454545,May,Online
+ORD583,Pizza Hut,"Fort Worth, TX",2025-05-19 18:30:00,2025-05-19 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,May,Online
+ORD584,Little Caesars,"Columbus, OH",2025-05-20 19:45:00,2025-05-20 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,May,Online
+ORD585,Marco's Pizza,"Charlotte, NC",2025-05-21 18:00:00,2025-05-21 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,May,Online
+ORD586,Domino's,"San Francisco, CA",2025-05-22 20:15:00,2025-05-22 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,May,Offline
+ORD587,Papa John's,"Indianapolis, IN",2025-05-23 18:00:00,2025-05-23 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,May,Online
+ORD588,Pizza Hut,"Seattle, WA",2025-05-24 19:15:00,2025-05-24 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,TRUE,5,0.666666667,May,Online
+ORD589,Little Caesars,"Denver, CO",2025-05-25 20:30:00,2025-05-25 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,TRUE,5,0.625,May,Online
+ORD590,Marco's Pizza,"Washington, DC",2025-05-26 18:45:00,2025-05-26 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,May,Offline
+ORD591,Domino's,"Boston, MA",2025-05-27 19:00:00,2025-05-27 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,May,Online
+ORD592,Papa John's,"El Paso, TX",2025-05-28 20:00:00,2025-05-28 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,May,Online
+ORD593,Pizza Hut,"Detroit, MI",2025-05-29 18:30:00,2025-05-29 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,May,Online
+ORD594,Little Caesars,"Nashville, TN",2025-05-30 19:45:00,2025-05-30 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,May,Online
+ORD595,Marco's Pizza,"Memphis, TN",2025-05-31 18:00:00,2025-05-31 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,TRUE,7.5,0.75,May,Online
+ORD596,Domino's,"Portland, OR",2025-06-01 20:15:00,2025-06-01 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,TRUE,5,0.444444444,June,Offline
+ORD597,Papa John's,"Oklahoma City, OK",2025-06-02 18:00:00,2025-06-02 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,June,Online
+ORD598,Pizza Hut,"Las Vegas, NV",2025-06-03 19:15:00,2025-06-03 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,June,Online
+ORD599,Little Caesars,"Atlanta, GA",2025-06-04 20:30:00,2025-06-04 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,June,Online
+ORD600,Marco's Pizza,"Miami, FL",2025-06-05 18:45:00,2025-06-05 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,June,Offline
+ORD601,Domino's,"New York, NY",2025-06-06 19:00:00,2025-06-06 19:45:00,45,Large,Thai Chicken,4,7,Medium,Card,TRUE,FALSE,6.428571429,0.571428571,June,Online
+ORD602,Papa John's,"Los Angeles, CA",2025-06-07 20:15:00,2025-06-07 20:55:00,40,Medium,Sicilian,3,6.5,High,Wallet,TRUE,TRUE,6.153846154,0.461538462,June,Online
+ORD603,Pizza Hut,"Chicago, IL",2025-06-08 18:45:00,2025-06-08 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,June,Offline
+ORD604,Little Caesars,"Houston, TX",2025-06-09 19:30:00,2025-06-09 20:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,June,Online
+ORD605,Marco's Pizza,"Phoenix, AZ",2025-06-10 18:00:00,2025-06-10 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,June,Online
+ORD606,Domino's,"Philadelphia, PA",2025-06-11 20:15:00,2025-06-11 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,FALSE,5,0.444444444,June,Offline
+ORD607,Papa John's,"San Antonio, TX",2025-06-12 18:00:00,2025-06-12 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,FALSE,6.666666667,0.666666667,June,Online
+ORD608,Pizza Hut,"San Diego, CA",2025-06-13 19:15:00,2025-06-13 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,June,Online
+ORD609,Little Caesars,"Dallas, TX",2025-06-14 20:30:00,2025-06-14 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,TRUE,5,0.625,June,Online
+ORD610,Marco's Pizza,"San Jose, CA",2025-06-15 18:45:00,2025-06-15 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,8,0.4,June,Offline
+ORD611,Domino's,"Austin, TX",2025-06-16 19:00:00,2025-06-16 19:50:00,50,Large,Non-Veg,4,10,High,Domino's Cash,TRUE,FALSE,5,0.4,June,Offline
+ORD612,Papa John's,"Jacksonville, FL",2025-06-17 20:00:00,2025-06-17 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,June,Online
+ORD613,Pizza Hut,"Fort Worth, TX",2025-06-18 18:30:00,2025-06-18 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,June,Online
+ORD614,Little Caesars,"Columbus, OH",2025-06-19 19:45:00,2025-06-19 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,June,Online
+ORD615,Marco's Pizza,"Charlotte, NC",2025-06-20 18:00:00,2025-06-20 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,June,Online
+ORD616,Domino's,"San Francisco, CA",2025-06-21 20:15:00,2025-06-21 21:00:00,45,Large,Veg,4,9,High,Cash,TRUE,TRUE,5,0.444444444,June,Offline
+ORD617,Papa John's,"Indianapolis, IN",2025-06-22 18:00:00,2025-06-22 18:20:00,20,Medium,Veg,2,3,Low,Card,TRUE,TRUE,6.666666667,0.666666667,June,Online
+ORD618,Pizza Hut,"Seattle, WA",2025-06-23 19:15:00,2025-06-23 19:45:00,30,Large,Non-Veg,4,6,Medium,Wallet,TRUE,FALSE,5,0.666666667,June,Online
+ORD619,Little Caesars,"Denver, CO",2025-06-24 20:30:00,2025-06-24 21:10:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,June,Online
+ORD620,Marco's Pizza,"Washington, DC",2025-06-25 18:45:00,2025-06-25 19:05:00,20,Small,Vegan,1,2.5,Low,Cash,TRUE,FALSE,8,0.4,June,Offline
+ORD621,Domino's,"Boston, MA",2025-06-26 19:00:00,2025-06-26 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,June,Online
+ORD622,Papa John's,"El Paso, TX",2025-06-27 20:00:00,2025-06-27 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,June,Online
+ORD623,Pizza Hut,"Detroit, MI",2025-06-28 18:30:00,2025-06-28 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,TRUE,10,1,June,Online
+ORD624,Little Caesars,"Nashville, TN",2025-06-29 19:45:00,2025-06-29 20:25:00,40,XL,Stuffed Crust,5,7.5,High,Card,TRUE,TRUE,5.333333333,0.666666667,June,Online
+ORD625,Domino's,"Austin, TX",2025-06-15 19:20:00,2025-06-15 19:55:00,35,Large,Cheese Burst,4,5.4,Medium,Card,TRUE,TRUE,6.481481481,0.740740741,June,Online
+ORD626,Pizza Hut,"Miami, FL",2025-06-15 20:00:00,2025-06-15 20:30:00,30,Medium,Veg,2,4.1,Low,Wallet,TRUE,TRUE,7.317073171,0.487804878,June,Online
+ORD627,Little Caesars,"Atlanta, GA",2025-06-15 20:05:00,2025-06-15 20:55:00,50,XL,Non-Veg,5,8.7,High,Cash,TRUE,TRUE,5.747126437,0.574712644,June,Offline
+ORD628,Domino's,"Austin, TX",2025-06-15 21:00:00,2025-06-15 21:35:00,35,Large,Cheese Burst,4,5.4,Medium,Card,TRUE,TRUE,6.481481481,0.740740741,June,Online
+ORD629,Papa John's,"Seattle, WA",2025-06-16 17:45:00,2025-06-16 18:10:00,25,Medium,Gluten-Free,3,3.9,Low,UPI,FALSE,FALSE,6.41025641,0.769230769,June,Online
+ORD630,Pizza Hut,"Miami, FL",2025-06-16 18:30:00,2025-06-16 19:10:00,40,Large,Stuffed Crust,5,6,Medium,Wallet,TRUE,FALSE,6.666666667,0.833333333,June,Online
+ORD631,Domino's,"Phoenix, AZ",2025-06-16 19:00:00,2025-06-16 19:35:00,35,Medium,Veg,2,4.5,Medium,Hut Points,TRUE,FALSE,7.777777778,0.444444444,June,Offline
+ORD632,Pizza Hut,"Dallas, TX",2025-06-16 20:15:00,2025-06-16 21:00:00,45,Large,Cheese Burst,4,7.2,High,Card,TRUE,FALSE,6.25,0.555555556,June,Online
+ORD633,Domino's,"Austin, TX",2025-06-16 21:10:00,2025-06-16 21:40:00,30,Large,Cheese Burst,4,5.4,Medium,Cash,TRUE,FALSE,5.555555556,0.740740741,June,Offline
+ORD634,Little Caesars,"Chicago, IL",2025-06-17 18:10:00,2025-06-17 18:50:00,40,XL,Sicilian,5,7.8,High,UPI,TRUE,FALSE,5.128205128,0.641025641,June,Online
+ORD635,Marco's Pizza,"Tampa, FL",2025-06-17 19:15:00,2025-06-17 19:40:00,25,Small,Thai Chicken,3,3.2,Medium,Card,TRUE,FALSE,7.8125,0.9375,June,Online
+ORD636,Pizza Hut,"Miami, FL",2025-06-17 20:00:00,2025-06-17 20:30:00,30,Medium,Veg,2,4.1,Low,Wallet,TRUE,FALSE,7.317073171,0.487804878,June,Online
+ORD637,Papa John's,"San Diego, CA",2025-06-18 17:45:00,2025-06-18 18:35:00,50,Large,Non-Veg,4,8.3,High,Card,FALSE,FALSE,6.024096386,0.481927711,June,Online
+ORD638,Domino's,"Austin, TX",2025-06-18 19:05:00,2025-06-18 19:40:00,35,Large,Cheese Burst,4,5.4,Medium,UPI,TRUE,FALSE,6.481481481,0.740740741,June,Online
+ORD639,Marco's Pizza,"Charlotte, NC",2025-06-18 20:00:00,2025-06-18 20:25:00,25,Medium,Non-Veg,3,4,Low,Wallet,TRUE,FALSE,6.25,0.75,June,Online
+ORD640,Pizza Hut,"Miami, FL",2025-06-18 21:00:00,2025-06-18 21:30:00,30,Medium,Veg,2,4.1,Low,Card,TRUE,FALSE,7.317073171,0.487804878,June,Online
+ORD641,Domino's,"Los Angeles, CA",2025-06-19 18:15:00,2025-06-19 18:55:00,40,Large,Cheese Burst,5,6.3,Medium,Cash,TRUE,FALSE,6.349206349,0.793650794,June,Offline
+ORD642,Little Caesars,"Denver, CO",2025-06-19 19:10:00,2025-06-19 19:55:00,45,XL,Vegan,2,7,High,Wallet,TRUE,FALSE,6.428571429,0.285714286,June,Online
+ORD643,Domino's,"Austin, TX",2025-06-19 20:00:00,2025-06-19 20:30:00,30,Large,Cheese Burst,4,5.4,Medium,Card,TRUE,FALSE,5.555555556,0.740740741,June,Online
+ORD644,Marco's Pizza,"Tampa, FL",2025-06-20 18:10:00,2025-06-20 18:40:00,30,Small,Thai Chicken,3,3.2,Medium,Cash,TRUE,FALSE,9.375,0.9375,June,Offline
+ORD645,Pizza Hut,"Dallas, TX",2025-06-20 19:00:00,2025-06-20 19:30:00,30,Medium,Stuffed Crust,4,5.8,Medium,Card,TRUE,FALSE,5.172413793,0.689655172,June,Online
+ORD646,Domino's,"San Francisco, CA",2025-07-21 19:00:00,2025-07-21 19:50:00,50,Large,Non-Veg,4,10,High,Card,TRUE,FALSE,5,0.4,July,Online
+ORD647,Papa John's,"Indianapolis, IN",2025-07-22 20:00:00,2025-07-22 20:35:00,35,Medium,Gluten-Free,3,5.5,Medium,Wallet,TRUE,FALSE,6.363636364,0.545454545,July,Online
+ORD648,Pizza Hut,"Seattle, WA",2025-07-23 18:30:00,2025-07-23 18:50:00,20,Small,Vegan,2,2,Low,UPI,TRUE,FALSE,10,1,July,Online
+ORD649,Little Caesars,"Denver, CO",2025-07-24 19:45:00,2025-07-24 20:25:00,40,XL,Cheese Burst,5,8,High,Card,TRUE,FALSE,5,0.625,July,Online
+ORD650,Marco's Pizza,"Boston, MA",2025-07-25 18:15:00,2025-07-25 18:45:00,30,Medium,Thai Chicken,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,July,Online
+ORD651,Domino's,"Nashville, TN",2025-07-26 19:30:00,2025-07-26 20:10:00,40,Large,Sicilian,4,6.5,High,Cash,TRUE,TRUE,6.153846154,0.615384615,July,Offline
+ORD652,Papa John's,"Detroit, MI",2025-07-27 20:45:00,2025-07-27 21:15:00,30,Medium,Veg,2,3.5,Low,Card,TRUE,TRUE,8.571428571,0.571428571,July,Online
+ORD653,Pizza Hut,"El Paso, TX",2025-07-28 18:00:00,2025-07-28 18:30:00,30,Large,Non-Veg,4,5,Medium,Wallet,TRUE,FALSE,6,0.8,July,Online
+ORD654,Little Caesars,"Washington, DC",2025-07-29 19:15:00,2025-07-29 19:55:00,40,XL,Cheese Burst,5,7,High,Card,TRUE,FALSE,5.714285714,0.714285714,July,Online
+ORD655,Marco's Pizza,"Las Vegas, NV",2025-07-30 20:30:00,2025-07-30 21:00:00,30,Medium,Vegan,2,4,Medium,UPI,TRUE,FALSE,7.5,0.5,July,Online
+ORD656,Domino's,"Louisville, KY",2025-07-31 18:45:00,2025-07-31 19:25:00,40,Large,Non-Veg,4,6,High,Domino's Cash,TRUE,FALSE,6.666666667,0.666666667,July,Offline
+ORD657,Papa John's,"Baltimore, MD",2025-08-01 20:00:00,2025-08-01 20:30:00,30,Medium,Gluten-Free,3,5,Medium,Wallet,TRUE,FALSE,6,0.6,August,Online
+ORD658,Pizza Hut,"Milwaukee, WI",2025-08-02 18:30:00,2025-08-02 19:00:00,30,Small,Vegan,2,3,Low,UPI,TRUE,TRUE,10,0.666666667,August,Online
+ORD659,Little Caesars,"Albuquerque, NM",2025-08-03 19:45:00,2025-08-03 20:25:00,40,XL,Stuffed Crust,5,8,High,Card,TRUE,TRUE,5,0.625,August,Online
+ORD660,Marco's Pizza,"Tucson, AZ",2025-08-04 18:00:00,2025-08-04 18:30:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,August,Online
+ORD661,Domino's,"Fresno, CA",2025-08-05 19:15:00,2025-08-05 19:55:00,40,Large,Veg,4,6,High,Cash,TRUE,FALSE,6.666666667,0.666666667,August,Offline
+ORD662,Papa John's,"Sacramento, CA",2025-08-06 20:30:00,2025-08-06 21:00:00,30,Medium,Veg,2,3.5,Low,Card,TRUE,FALSE,8.571428571,0.571428571,August,Online
+ORD663,Pizza Hut,"Kansas City, MO",2025-08-07 18:45:00,2025-08-07 19:15:00,30,Large,Non-Veg,4,5.5,Medium,Wallet,TRUE,FALSE,5.454545455,0.727272727,August,Online
+ORD664,Little Caesars,"Mesa, AZ",2025-08-08 20:00:00,2025-08-08 20:40:00,40,XL,Cheese Burst,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,August,Online
+ORD665,Marco's Pizza,"Atlanta, GA",2025-08-09 18:15:00,2025-08-09 18:45:00,30,Small,Vegan,1,2.5,Low,Cash,TRUE,TRUE,12,0.4,August,Offline
+ORD666,Domino's,"Omaha, NE",2025-08-10 19:30:00,2025-08-10 20:10:00,40,Large,Non-Veg,4,6.5,High,Card,TRUE,TRUE,6.153846154,0.615384615,August,Online
+ORD667,Papa John's,"Raleigh, NC",2025-08-11 20:45:00,2025-08-11 21:15:00,30,Medium,Gluten-Free,3,5,Medium,Wallet,TRUE,FALSE,6,0.6,August,Online
+ORD668,Pizza Hut,"Long Beach, CA",2025-08-12 18:00:00,2025-08-12 18:30:00,30,Small,Vegan,2,3,Low,UPI,TRUE,FALSE,10,0.666666667,August,Online
+ORD669,Little Caesars,"Virginia Beach, VA",2025-08-13 19:15:00,2025-08-13 19:55:00,40,XL,Cheese Burst,5,7,High,Card,TRUE,FALSE,5.714285714,0.714285714,August,Online
+ORD670,Marco's Pizza,"Oakland, CA",2025-08-14 20:30:00,2025-08-14 21:00:00,30,Medium,Non-Veg,3,4,Medium,UPI,TRUE,FALSE,7.5,0.75,August,Online
+ORD671,Domino's,"San Jose, CA",2025-08-15 19:00:00,2025-08-15 19:35:00,35,Large,Cheese Burst,4,5,Medium,Card,TRUE,FALSE,7,0.8,August,Online
+ORD672,Pizza Hut,"Austin, TX",2025-08-16 18:30:00,2025-08-16 19:10:00,40,Medium,Veg,2,6,High,Wallet,TRUE,TRUE,6.666666667,0.333333333,August,Online
+ORD673,Papa John's,"Columbus, OH",2025-08-17 20:00:00,2025-08-17 20:25:00,25,Medium,Gluten-Free,3,3.5,Low,UPI,TRUE,TRUE,7.142857143,0.857142857,August,Online
+ORD674,Little Caesars,"Fort Worth, TX",2025-08-18 19:15:00,2025-08-18 19:55:00,40,XL,Non-Veg,5,7,High,Cash,TRUE,FALSE,5.714285714,0.714285714,August,Offline
+ORD675,Marco's Pizza,"Jacksonville, FL",2025-08-19 18:45:00,2025-08-19 19:15:00,30,Medium,Thai Chicken,3,4,Medium,Card,TRUE,FALSE,7.5,0.75,August,Online
+ORD676,Domino's,"Indianapolis, IN",2025-08-20 20:30:00,2025-08-20 21:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,August,Online
+ORD677,Pizza Hut,"Charlotte, NC",2025-08-21 19:00:00,2025-08-21 19:30:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,August,Online
+ORD678,Papa John's,"San Francisco, CA",2025-08-22 18:15:00,2025-08-22 18:50:00,35,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,7,0.6,August,Online
+ORD679,Little Caesars,"Denver, CO",2025-08-23 20:00:00,2025-08-23 20:45:00,45,XL,Cheese Burst,5,8,High,Cash,TRUE,TRUE,5.625,0.625,August,Offline
+ORD680,Marco's Pizza,"Seattle, WA",2025-08-24 19:30:00,2025-08-24 20:00:00,30,Medium,Thai Chicken,3,4.5,Medium,UPI,TRUE,TRUE,6.666666667,0.666666667,August,Online
+ORD681,Domino's,"Boston, MA",2025-08-25 18:00:00,2025-08-25 18:35:00,35,Large,Non-Veg,4,6,Medium,Card,TRUE,FALSE,5.833333333,0.666666667,August,Online
+ORD682,Pizza Hut,"Detroit, MI",2025-08-26 19:15:00,2025-08-26 19:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,August,Online
+ORD683,Papa John's,"Memphis, TN",2025-08-27 20:30:00,2025-08-27 21:00:00,30,Medium,Gluten-Free,3,5,Medium,UPI,TRUE,FALSE,6,0.6,August,Online
+ORD684,Little Caesars,"Baltimore, MD",2025-08-28 18:45:00,2025-08-28 19:25:00,40,XL,Cheese Burst,5,7.5,High,Card,TRUE,FALSE,5.333333333,0.666666667,August,Online
+ORD685,Marco's Pizza,"Nashville, TN",2025-08-29 19:00:00,2025-08-29 19:30:00,30,Medium,Thai Chicken,3,4,Medium,Cash,TRUE,FALSE,7.5,0.75,August,Offline
+ORD686,Domino's,"Portland, OR",2025-08-30 20:15:00,2025-08-30 20:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,August,Online
+ORD687,Pizza Hut,"Oklahoma City, OK",2025-08-31 18:30:00,2025-08-31 19:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,August,Online
+ORD688,Papa John's,"Las Vegas, NV",2025-09-01 19:45:00,2025-09-01 20:15:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,6,0.6,September,Online
+ORD689,Little Caesars,"Louisville, KY",2025-09-02 20:00:00,2025-09-02 20:40:00,40,XL,Cheese Burst,5,8,High,UPI,TRUE,FALSE,5,0.625,September,Online
+ORD690,Marco's Pizza,"Milwaukee, WI",2025-09-03 18:15:00,2025-09-03 18:45:00,30,Medium,Thai Chicken,3,4,Medium,Card,TRUE,FALSE,7.5,0.75,September,Online
+ORD691,Domino's,"Albuquerque, NM",2025-09-04 19:30:00,2025-09-04 20:00:00,30,Large,Non-Veg,4,6,Medium,Cash,TRUE,FALSE,5,0.666666667,September,Offline
+ORD692,Pizza Hut,"Tucson, AZ",2025-09-05 20:45:00,2025-09-05 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,September,Online
+ORD693,Papa John's,"Fresno, CA",2025-09-06 18:00:00,2025-09-06 18:30:00,30,Medium,Gluten-Free,3,5,Medium,UPI,TRUE,TRUE,6,0.6,September,Online
+ORD694,Little Caesars,"Sacramento, CA",2025-09-07 19:15:00,2025-09-07 19:55:00,40,XL,Cheese Burst,5,7,High,Card,TRUE,TRUE,5.714285714,0.714285714,September,Online
+ORD695,Marco's Pizza,"Kansas City, MO",2025-09-08 20:30:00,2025-09-08 21:00:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,September,Offline
+ORD696,Domino's,"Mesa, AZ",2025-09-09 18:45:00,2025-09-09 19:15:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,September,Online
+ORD697,Pizza Hut,"Atlanta, GA",2025-09-10 19:00:00,2025-09-10 19:30:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,September,Online
+ORD698,Papa John's,"Omaha, NE",2025-09-11 20:15:00,2025-09-11 20:45:00,30,Medium,Gluten-Free,3,5,Medium,UPI,TRUE,FALSE,6,0.6,September,Online
+ORD699,Little Caesars,"Louisville, KY",2025-09-12 19:30:00,2025-09-12 20:00:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,September,Online
+ORD700,Marco's Pizza,"Milwaukee, WI",2025-09-13 18:45:00,2025-09-13 19:15:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,September,Offline
+ORD701,Domino's,"Albuquerque, NM",2025-09-14 20:00:00,2025-09-14 20:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,September,Online
+ORD702,Pizza Hut,"Atlanta, GA",2025-09-15 19:15:00,2025-09-15 19:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,September,Online
+ORD703,Papa John's,"Omaha, NE",2025-09-16 20:30:00,2025-09-16 21:00:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,6,0.6,September,Online
+ORD704,Little Caesars,"Louisville, KY",2025-09-17 19:45:00,2025-09-17 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,September,Online
+ORD705,Marco's Pizza,"Milwaukee, WI",2025-09-18 18:00:00,2025-09-18 18:30:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,September,Offline
+ORD706,Domino's,"Albuquerque, NM",2025-09-19 20:15:00,2025-09-19 20:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,September,Online
+ORD707,Pizza Hut,"Atlanta, GA",2025-09-20 19:30:00,2025-09-20 20:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,September,Online
+ORD708,Papa John's,"Omaha, NE",2025-09-21 20:45:00,2025-09-21 21:15:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,TRUE,6,0.6,September,Online
+ORD709,Little Caesars,"Louisville, KY",2025-09-22 19:00:00,2025-09-22 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,September,Online
+ORD710,Marco's Pizza,"Milwaukee, WI",2025-09-23 18:15:00,2025-09-23 18:45:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,September,Offline
+ORD711,Domino's,"Albuquerque, NM",2025-09-24 19:30:00,2025-09-24 20:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,September,Online
+ORD712,Pizza Hut,"Atlanta, GA",2025-09-25 20:45:00,2025-09-25 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,September,Online
+ORD713,Papa John's,"Omaha, NE",2025-09-26 18:00:00,2025-09-26 18:30:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,6,0.6,September,Online
+ORD714,Little Caesars,"Louisville, KY",2025-09-27 19:15:00,2025-09-27 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,TRUE,5,0.833333333,September,Online
+ORD715,Marco's Pizza,"Milwaukee, WI",2025-09-28 20:30:00,2025-09-28 21:00:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,September,Offline
+ORD716,Domino's,"Albuquerque, NM",2025-09-29 19:00:00,2025-09-29 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,September,Online
+ORD717,Pizza Hut,"Atlanta, GA",2025-09-30 20:15:00,2025-09-30 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,September,Online
+ORD718,Papa John's,"Omaha, NE",2025-10-01 18:30:00,2025-10-01 19:00:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,6,0.6,October,Online
+ORD719,Little Caesars,"Louisville, KY",2025-10-02 19:45:00,2025-10-02 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,October,Online
+ORD720,Marco's Pizza,"Milwaukee, WI",2025-10-03 18:00:00,2025-10-03 18:30:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,October,Offline
+ORD721,Domino's,"Albuquerque, NM",2025-10-04 19:15:00,2025-10-04 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,October,Online
+ORD722,Pizza Hut,"Atlanta, GA",2025-10-05 20:30:00,2025-10-05 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,October,Online
+ORD723,Papa John's,"Omaha, NE",2025-10-06 18:45:00,2025-10-06 19:15:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,6,0.6,October,Online
+ORD724,Little Caesars,"Louisville, KY",2025-10-07 19:00:00,2025-10-07 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,October,Online
+ORD725,Marco's Pizza,"Milwaukee, WI",2025-10-08 20:15:00,2025-10-08 20:45:00,30,Medium,Thai Chicken,3,4.5,Medium,UPI,TRUE,FALSE,6.666666667,0.666666667,October,Online
+ORD726,Papa John's,"Omaha, NE",2025-10-09 20:30:00,2025-10-09 21:00:00,30,Medium,Gluten-Free,3,5,Medium,UPI,TRUE,FALSE,6,0.6,October,Online
+ORD727,Little Caesars,"Louisville, KY",2025-10-10 19:45:00,2025-10-10 20:15:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,October,Online
+ORD728,Marco's Pizza,"Milwaukee, WI",2025-10-11 18:00:00,2025-10-11 18:30:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,October,Offline
+ORD729,Domino's,"Albuquerque, NM",2025-10-12 19:15:00,2025-10-12 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,October,Online
+ORD730,Pizza Hut,"Atlanta, GA",2025-10-13 20:30:00,2025-10-13 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,October,Online
+ORD731,Papa John's,"Omaha, NE",2025-10-14 18:45:00,2025-10-14 19:15:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,6,0.6,October,Online
+ORD732,Little Caesars,"Louisville, KY",2025-10-15 19:00:00,2025-10-15 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,October,Online
+ORD733,Marco's Pizza,"Milwaukee, WI",2025-10-16 20:15:00,2025-10-16 20:45:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,October,Offline
+ORD734,Domino's,"Albuquerque, NM",2025-10-17 19:30:00,2025-10-17 20:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,October,Online
+ORD735,Pizza Hut,"Atlanta, GA",2025-10-18 20:45:00,2025-10-18 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,October,Online
+ORD736,Papa John's,"Omaha, NE",2025-10-19 18:00:00,2025-10-19 18:30:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,TRUE,6,0.6,October,Online
+ORD737,Little Caesars,"Louisville, KY",2025-10-20 19:15:00,2025-10-20 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,October,Online
+ORD738,Marco's Pizza,"Milwaukee, WI",2025-10-21 20:30:00,2025-10-21 21:00:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,October,Offline
+ORD739,Domino's,"Albuquerque, NM",2025-10-22 19:00:00,2025-10-22 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,October,Online
+ORD740,Pizza Hut,"Atlanta, GA",2025-10-23 20:15:00,2025-10-23 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,October,Online
+ORD741,Papa John's,"Omaha, NE",2025-10-24 18:30:00,2025-10-24 19:00:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,6,0.6,October,Online
+ORD742,Little Caesars,"Louisville, KY",2025-10-25 19:45:00,2025-10-25 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,TRUE,5,0.833333333,October,Online
+ORD743,Marco's Pizza,"Milwaukee, WI",2025-10-26 18:00:00,2025-10-26 18:30:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,October,Offline
+ORD744,Domino's,"Albuquerque, NM",2025-10-27 19:15:00,2025-10-27 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,October,Online
+ORD745,Pizza Hut,"Atlanta, GA",2025-10-28 20:30:00,2025-10-28 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,October,Online
+ORD746,Papa John's,"Omaha, NE",2025-10-29 18:45:00,2025-10-29 19:15:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,6,0.6,October,Online
+ORD747,Little Caesars,"Louisville, KY",2025-10-30 19:00:00,2025-10-30 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,October,Online
+ORD748,Marco's Pizza,"Milwaukee, WI",2025-10-31 20:15:00,2025-10-31 20:45:00,30,Medium,Thai Chicken,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,October,Offline
+ORD749,Domino's,"Albuquerque, NM",2025-11-01 19:30:00,2025-11-01 20:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,November,Online
+ORD750,Pizza Hut,"Atlanta, GA",2025-11-02 20:45:00,2025-11-02 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,November,Online
+ORD751,Papa John's,"Omaha, NE",2025-11-03 18:00:00,2025-11-03 18:30:00,30,Medium,Gluten-Free,3,5,Medium,Card,TRUE,FALSE,6,0.6,November,Online
+ORD752,Little Caesars,"Louisville, KY",2025-11-04 19:15:00,2025-11-04 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,November,Online
+ORD753,Marco's Pizza,"Milwaukee, WI",2025-11-05 20:30:00,2025-11-05 21:00:00,30,Medium,Thai Chicken,3,4.5,Medium,UPI,TRUE,FALSE,6.666666667,0.666666667,November,Online
+ORD754,Papa John's,"Omaha, NE",2025-11-06 18:45:00,2025-11-06 19:15:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,November,Online
+ORD755,Little Caesars,"Louisville, KY",2025-11-07 19:00:00,2025-11-07 19:30:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,November,Online
+ORD756,Marco's Pizza,"Milwaukee, WI",2025-11-08 20:15:00,2025-11-08 20:45:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,November,Offline
+ORD757,Domino's,"Albuquerque, NM",2025-11-09 19:30:00,2025-11-09 20:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,November,Online
+ORD758,Pizza Hut,"Atlanta, GA",2025-11-10 20:45:00,2025-11-10 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,November,Online
+ORD759,Papa John's,"Omaha, NE",2025-11-11 18:00:00,2025-11-11 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,November,Online
+ORD760,Little Caesars,"Louisville, KY",2025-11-12 19:15:00,2025-11-12 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,November,Online
+ORD761,Marco's Pizza,"Milwaukee, WI",2025-11-13 20:30:00,2025-11-13 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,November,Offline
+ORD762,Domino's,"Albuquerque, NM",2025-11-14 19:00:00,2025-11-14 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,November,Online
+ORD763,Pizza Hut,"Atlanta, GA",2025-11-15 20:15:00,2025-11-15 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,November,Online
+ORD764,Papa John's,"Omaha, NE",2025-11-16 18:30:00,2025-11-16 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,November,Online
+ORD765,Little Caesars,"Louisville, KY",2025-11-17 19:45:00,2025-11-17 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,November,Online
+ORD766,Marco's Pizza,"Milwaukee, WI",2025-11-18 20:00:00,2025-11-18 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,November,Offline
+ORD767,Domino's,"Albuquerque, NM",2025-11-19 19:15:00,2025-11-19 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,November,Online
+ORD768,Pizza Hut,"Atlanta, GA",2025-11-20 20:30:00,2025-11-20 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,November,Online
+ORD769,Papa John's,"Omaha, NE",2025-11-21 18:45:00,2025-11-21 19:15:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,November,Online
+ORD770,Little Caesars,"Louisville, KY",2025-11-22 19:00:00,2025-11-22 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,TRUE,5,0.833333333,November,Online
+ORD771,Marco's Pizza,"Milwaukee, WI",2025-11-23 20:15:00,2025-11-23 20:45:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,November,Offline
+ORD772,Domino's,"Albuquerque, NM",2025-11-24 19:30:00,2025-11-24 20:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,November,Online
+ORD773,Pizza Hut,"Atlanta, GA",2025-11-25 20:45:00,2025-11-25 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,November,Online
+ORD774,Papa John's,"Omaha, NE",2025-11-26 18:00:00,2025-11-26 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,November,Online
+ORD775,Little Caesars,"Louisville, KY",2025-11-27 19:15:00,2025-11-27 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,November,Online
+ORD776,Marco's Pizza,"Milwaukee, WI",2025-11-28 20:30:00,2025-11-28 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,November,Offline
+ORD777,Domino's,"Albuquerque, NM",2025-11-29 19:00:00,2025-11-29 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,November,Online
+ORD778,Pizza Hut,"Atlanta, GA",2025-11-30 20:15:00,2025-11-30 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,November,Online
+ORD779,Papa John's,"Omaha, NE",2025-12-01 18:30:00,2025-12-01 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,December,Online
+ORD780,Little Caesars,"Louisville, KY",2025-12-02 19:45:00,2025-12-02 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,December,Online
+ORD781,Marco's Pizza,"Milwaukee, WI",2025-12-03 20:00:00,2025-12-03 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,December,Offline
+ORD782,Papa John's,"Omaha, NE",2025-12-04 18:15:00,2025-12-04 18:45:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,December,Online
+ORD783,Little Caesars,"Louisville, KY",2025-12-05 19:30:00,2025-12-05 20:00:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,December,Online
+ORD784,Marco's Pizza,"Milwaukee, WI",2025-12-06 20:45:00,2025-12-06 21:15:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,December,Offline
+ORD785,Domino's,"Albuquerque, NM",2025-12-07 19:00:00,2025-12-07 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,December,Online
+ORD786,Pizza Hut,"Atlanta, GA",2025-12-08 20:15:00,2025-12-08 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,December,Online
+ORD787,Papa John's,"Omaha, NE",2025-12-09 18:30:00,2025-12-09 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,December,Online
+ORD788,Little Caesars,"Louisville, KY",2025-12-10 19:45:00,2025-12-10 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,December,Online
+ORD789,Marco's Pizza,"Milwaukee, WI",2025-12-11 20:00:00,2025-12-11 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,December,Offline
+ORD790,Domino's,"Albuquerque, NM",2025-12-12 19:15:00,2025-12-12 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,December,Online
+ORD791,Pizza Hut,"Atlanta, GA",2025-12-13 20:30:00,2025-12-13 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,December,Online
+ORD792,Papa John's,"Omaha, NE",2025-12-14 18:45:00,2025-12-14 19:15:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,December,Online
+ORD793,Little Caesars,"Louisville, KY",2025-12-15 19:00:00,2025-12-15 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,December,Online
+ORD794,Marco's Pizza,"Milwaukee, WI",2025-12-16 20:15:00,2025-12-16 20:45:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,December,Offline
+ORD795,Domino's,"Albuquerque, NM",2025-12-17 19:30:00,2025-12-17 20:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,December,Online
+ORD796,Pizza Hut,"Atlanta, GA",2025-12-18 20:45:00,2025-12-18 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,December,Online
+ORD797,Papa John's,"Omaha, NE",2025-12-19 18:00:00,2025-12-19 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,December,Online
+ORD798,Little Caesars,"Louisville, KY",2025-12-20 19:15:00,2025-12-20 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,TRUE,5,0.833333333,December,Online
+ORD799,Marco's Pizza,"Milwaukee, WI",2025-12-21 20:30:00,2025-12-21 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,December,Offline
+ORD800,Domino's,"Albuquerque, NM",2025-12-22 19:00:00,2025-12-22 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,December,Online
+ORD801,Pizza Hut,"Atlanta, GA",2025-12-23 20:15:00,2025-12-23 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,December,Online
+ORD802,Papa John's,"Omaha, NE",2025-12-24 18:30:00,2025-12-24 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,December,Online
+ORD803,Little Caesars,"Louisville, KY",2025-12-25 19:45:00,2025-12-25 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,December,Online
+ORD804,Marco's Pizza,"Milwaukee, WI",2025-12-26 20:00:00,2025-12-26 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,December,Offline
+ORD805,Domino's,"Albuquerque, NM",2025-12-27 19:15:00,2025-12-27 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,December,Online
+ORD806,Pizza Hut,"Atlanta, GA",2025-12-28 20:30:00,2025-12-28 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,December,Online
+ORD807,Papa John's,"Omaha, NE",2025-12-29 18:45:00,2025-12-29 19:15:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,December,Online
+ORD808,Little Caesars,"Louisville, KY",2025-12-30 19:00:00,2025-12-30 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,December,Online
+ORD809,Marco's Pizza,"Milwaukee, WI",2025-12-31 20:15:00,2025-12-31 20:45:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,December,Offline
+ORD810,Papa John's,"Omaha, NE",2025-12-24 18:30:00,2025-12-24 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,December,Online
+ORD811,Little Caesars,"Louisville, KY",2025-12-25 19:45:00,2025-12-25 20:15:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,December,Online
+ORD812,Marco's Pizza,"Milwaukee, WI",2025-12-26 20:00:00,2025-12-26 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,December,Offline
+ORD813,Domino's,"Albuquerque, NM",2025-12-27 19:15:00,2025-12-27 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,December,Online
+ORD814,Pizza Hut,"Atlanta, GA",2025-12-28 20:30:00,2025-12-28 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,December,Online
+ORD815,Papa John's,"Omaha, NE",2025-12-29 18:45:00,2025-12-29 19:15:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,December,Online
+ORD816,Little Caesars,"Louisville, KY",2025-12-30 19:00:00,2025-12-30 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,December,Online
+ORD817,Marco's Pizza,"Milwaukee, WI",2025-12-31 20:15:00,2025-12-31 20:45:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,December,Offline
+ORD818,Domino's,"Albuquerque, NM",2026-01-01 19:30:00,2026-01-01 20:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,January,Online
+ORD819,Pizza Hut,"Atlanta, GA",2026-01-02 20:45:00,2026-01-02 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,January,Online
+ORD820,Papa John's,"Omaha, NE",2026-01-03 18:00:00,2026-01-03 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,January,Online
+ORD821,Little Caesars,"Louisville, KY",2026-01-04 19:15:00,2026-01-04 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,TRUE,5,0.833333333,January,Online
+ORD822,Marco's Pizza,"Milwaukee, WI",2026-01-05 20:30:00,2026-01-05 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,January,Offline
+ORD823,Domino's,"Albuquerque, NM",2026-01-06 19:00:00,2026-01-06 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,January,Online
+ORD824,Pizza Hut,"Atlanta, GA",2026-01-07 20:15:00,2026-01-07 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,January,Online
+ORD825,Papa John's,"Omaha, NE",2026-01-08 18:30:00,2026-01-08 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,January,Online
+ORD826,Little Caesars,"Louisville, KY",2026-01-09 19:45:00,2026-01-09 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,January,Online
+ORD827,Marco's Pizza,"Milwaukee, WI",2026-01-10 20:00:00,2026-01-10 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,January,Offline
+ORD828,Domino's,"Albuquerque, NM",2026-01-11 19:15:00,2026-01-11 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,January,Online
+ORD829,Pizza Hut,"Atlanta, GA",2026-01-12 20:30:00,2026-01-12 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,January,Online
+ORD830,Papa John's,"Omaha, NE",2026-01-13 18:45:00,2026-01-13 19:15:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,January,Online
+ORD831,Little Caesars,"Louisville, KY",2026-01-14 19:00:00,2026-01-14 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,January,Online
+ORD832,Marco's Pizza,"Milwaukee, WI",2026-01-15 20:15:00,2026-01-15 20:45:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,January,Offline
+ORD833,Domino's,"Albuquerque, NM",2026-01-16 19:30:00,2026-01-16 20:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,January,Online
+ORD834,Pizza Hut,"Atlanta, GA",2026-01-17 20:45:00,2026-01-17 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,January,Online
+ORD835,Papa John's,"Omaha, NE",2026-01-18 18:00:00,2026-01-18 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,January,Online
+ORD836,Little Caesars,"Louisville, KY",2026-01-19 19:15:00,2026-01-19 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,January,Online
+ORD837,Marco's Pizza,"Milwaukee, WI",2026-01-20 20:30:00,2026-01-20 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,January,Offline
+ORD838,Papa John's,"Omaha, NE",2026-01-21 18:00:00,2026-01-21 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,January,Online
+ORD839,Little Caesars,"Louisville, KY",2026-01-22 19:15:00,2026-01-22 19:45:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,January,Online
+ORD840,Marco's Pizza,"Milwaukee, WI",2026-01-23 20:30:00,2026-01-23 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,January,Offline
+ORD841,Domino's,"Albuquerque, NM",2026-01-24 19:00:00,2026-01-24 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,January,Online
+ORD842,Pizza Hut,"Atlanta, GA",2026-01-25 20:15:00,2026-01-25 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,January,Online
+ORD843,Papa John's,"Omaha, NE",2026-01-26 18:30:00,2026-01-26 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,January,Online
+ORD844,Little Caesars,"Louisville, KY",2026-01-27 19:45:00,2026-01-27 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,January,Online
+ORD845,Marco's Pizza,"Milwaukee, WI",2026-01-28 20:00:00,2026-01-28 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,January,Offline
+ORD846,Domino's,"Albuquerque, NM",2026-01-29 19:15:00,2026-01-29 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,January,Online
+ORD847,Pizza Hut,"Atlanta, GA",2026-01-30 20:30:00,2026-01-30 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,January,Online
+ORD848,Papa John's,"Omaha, NE",2026-01-31 18:45:00,2026-01-31 19:15:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,January,Online
+ORD849,Little Caesars,"Louisville, KY",2026-02-01 19:00:00,2026-02-01 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,TRUE,5,0.833333333,February,Online
+ORD850,Marco's Pizza,"Milwaukee, WI",2026-02-02 20:15:00,2026-02-02 20:45:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,February,Offline
+ORD851,Domino's,"Albuquerque, NM",2026-02-03 19:30:00,2026-02-03 20:00:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,February,Online
+ORD852,Pizza Hut,"Atlanta, GA",2026-02-04 20:45:00,2026-02-04 21:15:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,February,Online
+ORD853,Papa John's,"Omaha, NE",2026-02-05 18:00:00,2026-02-05 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,February,Online
+ORD854,Little Caesars,"Louisville, KY",2026-02-06 19:15:00,2026-02-06 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,February,Online
+ORD855,Marco's Pizza,"Milwaukee, WI",2026-02-07 20:30:00,2026-02-07 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,February,Offline
+ORD856,Domino's,"Albuquerque, NM",2026-02-08 19:00:00,2026-02-08 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,February,Online
+ORD857,Pizza Hut,"Atlanta, GA",2026-02-09 20:15:00,2026-02-09 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,February,Online
+ORD858,Papa John's,"Omaha, NE",2026-02-10 18:30:00,2026-02-10 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,February,Online
+ORD859,Little Caesars,"Louisville, KY",2026-02-11 19:45:00,2026-02-11 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,February,Online
+ORD860,Marco's Pizza,"Milwaukee, WI",2026-02-12 20:00:00,2026-02-12 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,February,Offline
+ORD861,Domino's,"Albuquerque, NM",2026-02-13 19:15:00,2026-02-13 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,February,Online
+ORD862,Pizza Hut,"Atlanta, GA",2026-02-14 20:30:00,2026-02-14 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,February,Online
+ORD863,Papa John's,"Omaha, NE",2026-02-15 18:45:00,2026-02-15 19:15:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,February,Online
+ORD864,Little Caesars,"Louisville, KY",2026-02-16 19:00:00,2026-02-16 19:30:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,February,Online
+ORD865,Marco's Pizza,"Milwaukee, WI",2026-02-17 20:15:00,2026-02-17 20:45:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,February,Offline
+ORD866,Papa John's,"Omaha, NE",2026-02-18 18:30:00,2026-02-18 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,February,Online
+ORD867,Little Caesars,"Louisville, KY",2026-02-19 19:45:00,2026-02-19 20:15:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,February,Online
+ORD868,Marco's Pizza,"Milwaukee, WI",2026-02-20 20:00:00,2026-02-20 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,February,Offline
+ORD869,Domino's,"Albuquerque, NM",2026-02-21 19:15:00,2026-02-21 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,February,Online
+ORD870,Pizza Hut,"Atlanta, GA",2026-02-22 20:30:00,2026-02-22 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,February,Online
+ORD871,Papa John's,"Omaha, NE",2026-02-23 18:00:00,2026-02-23 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,February,Online
+ORD872,Little Caesars,"Louisville, KY",2026-02-24 19:15:00,2026-02-24 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,February,Online
+ORD873,Marco's Pizza,"Milwaukee, WI",2026-02-25 20:30:00,2026-02-25 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,February,Offline
+ORD874,Domino's,"Albuquerque, NM",2026-02-26 19:00:00,2026-02-26 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,February,Online
+ORD875,Pizza Hut,"Atlanta, GA",2026-02-27 20:15:00,2026-02-27 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,February,Online
+ORD876,Papa John's,"Omaha, NE",2026-02-28 18:30:00,2026-02-28 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,February,Online
+ORD877,Little Caesars,"Louisville, KY",2026-03-01 19:45:00,2026-03-01 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,TRUE,5,0.833333333,March,Online
+ORD878,Marco's Pizza,"Milwaukee, WI",2026-03-02 20:00:00,2026-03-02 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,March,Offline
+ORD879,Domino's,"Albuquerque, NM",2026-03-03 19:15:00,2026-03-03 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,March,Online
+ORD880,Pizza Hut,"Atlanta, GA",2026-03-04 20:30:00,2026-03-04 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,March,Online
+ORD881,Papa John's,"Omaha, NE",2026-03-05 18:00:00,2026-03-05 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,March,Online
+ORD882,Little Caesars,"Louisville, KY",2026-03-06 19:15:00,2026-03-06 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,March,Online
+ORD883,Marco's Pizza,"Milwaukee, WI",2026-03-07 20:30:00,2026-03-07 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,March,Offline
+ORD884,Domino's,"Albuquerque, NM",2026-03-08 19:00:00,2026-03-08 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,March,Online
+ORD885,Pizza Hut,"Atlanta, GA",2026-03-09 20:15:00,2026-03-09 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,March,Online
+ORD886,Papa John's,"Omaha, NE",2026-03-10 18:30:00,2026-03-10 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,March,Online
+ORD887,Little Caesars,"Louisville, KY",2026-03-11 19:45:00,2026-03-11 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,March,Online
+ORD888,Marco's Pizza,"Milwaukee, WI",2026-03-12 20:00:00,2026-03-12 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,March,Offline
+ORD889,Domino's,"Albuquerque, NM",2026-03-13 19:15:00,2026-03-13 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,March,Online
+ORD890,Pizza Hut,"Atlanta, GA",2026-03-14 20:30:00,2026-03-14 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,March,Online
+ORD891,Papa John's,"Omaha, NE",2026-03-15 18:00:00,2026-03-15 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,March,Online
+ORD892,Little Caesars,"Louisville, KY",2026-03-16 19:15:00,2026-03-16 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,March,Online
+ORD893,Marco's Pizza,"Milwaukee, WI",2026-03-17 20:30:00,2026-03-17 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,March,Offline
+ORD894,Papa John's,"Omaha, NE",2026-03-18 18:00:00,2026-03-18 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,March,Online
+ORD895,Little Caesars,"Louisville, KY",2026-03-19 19:15:00,2026-03-19 19:45:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,March,Online
+ORD896,Marco's Pizza,"Milwaukee, WI",2026-03-20 20:30:00,2026-03-20 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,March,Offline
+ORD897,Domino's,"Albuquerque, NM",2026-03-21 19:00:00,2026-03-21 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,March,Online
+ORD898,Pizza Hut,"Atlanta, GA",2026-03-22 20:15:00,2026-03-22 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,March,Online
+ORD899,Papa John's,"Omaha, NE",2026-03-23 18:30:00,2026-03-23 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,March,Online
+ORD900,Little Caesars,"Louisville, KY",2026-03-24 19:45:00,2026-03-24 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,March,Online
+ORD901,Marco's Pizza,"Milwaukee, WI",2026-03-25 20:00:00,2026-03-25 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,March,Offline
+ORD902,Domino's,"Albuquerque, NM",2026-03-26 19:15:00,2026-03-26 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,March,Online
+ORD903,Pizza Hut,"Atlanta, GA",2026-03-27 20:30:00,2026-03-27 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,March,Online
+ORD904,Papa John's,"Omaha, NE",2026-03-28 18:00:00,2026-03-28 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,March,Online
+ORD905,Little Caesars,"Louisville, KY",2026-03-29 19:15:00,2026-03-29 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,TRUE,5,0.833333333,March,Online
+ORD906,Marco's Pizza,"Milwaukee, WI",2026-03-30 20:30:00,2026-03-30 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,March,Offline
+ORD907,Domino's,"Albuquerque, NM",2026-03-31 19:00:00,2026-03-31 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,March,Online
+ORD908,Pizza Hut,"Atlanta, GA",2026-04-01 20:15:00,2026-04-01 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,April,Online
+ORD909,Papa John's,"Omaha, NE",2026-04-02 18:30:00,2026-04-02 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,April,Online
+ORD910,Little Caesars,"Louisville, KY",2026-04-03 19:45:00,2026-04-03 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,April,Online
+ORD911,Marco's Pizza,"Milwaukee, WI",2026-04-04 20:00:00,2026-04-04 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,April,Offline
+ORD912,Domino's,"Albuquerque, NM",2026-04-05 19:15:00,2026-04-05 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,April,Online
+ORD913,Pizza Hut,"Atlanta, GA",2026-04-06 20:30:00,2026-04-06 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,April,Online
+ORD914,Papa John's,"Omaha, NE",2026-04-07 18:00:00,2026-04-07 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,April,Online
+ORD915,Little Caesars,"Louisville, KY",2026-04-08 19:15:00,2026-04-08 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,April,Online
+ORD916,Marco's Pizza,"Milwaukee, WI",2026-04-09 20:30:00,2026-04-09 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,April,Offline
+ORD917,Domino's,"Albuquerque, NM",2026-04-10 19:00:00,2026-04-10 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,April,Online
+ORD918,Pizza Hut,"Atlanta, GA",2026-04-11 20:15:00,2026-04-11 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,April,Online
+ORD919,Papa John's,"Omaha, NE",2026-04-12 18:30:00,2026-04-12 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,April,Online
+ORD920,Little Caesars,"Louisville, KY",2026-04-13 19:45:00,2026-04-13 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,April,Online
+ORD921,Marco's Pizza,"Milwaukee, WI",2026-04-14 20:00:00,2026-04-14 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,April,Offline
+ORD922,Papa John's,"Omaha, NE",2026-04-15 18:00:00,2026-04-15 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,April,Online
+ORD923,Little Caesars,"Louisville, KY",2026-04-16 19:15:00,2026-04-16 19:45:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,April,Online
+ORD924,Marco's Pizza,"Milwaukee, WI",2026-04-17 20:30:00,2026-04-17 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,April,Offline
+ORD925,Domino's,"Albuquerque, NM",2026-04-18 19:00:00,2026-04-18 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,April,Online
+ORD926,Pizza Hut,"Atlanta, GA",2026-04-19 20:15:00,2026-04-19 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,April,Online
+ORD927,Papa John's,"Omaha, NE",2026-04-20 18:30:00,2026-04-20 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,April,Online
+ORD928,Little Caesars,"Louisville, KY",2026-04-21 19:45:00,2026-04-21 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,April,Online
+ORD929,Marco's Pizza,"Milwaukee, WI",2026-04-22 20:00:00,2026-04-22 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,April,Offline
+ORD930,Domino's,"Albuquerque, NM",2026-04-23 19:15:00,2026-04-23 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,April,Online
+ORD931,Pizza Hut,"Atlanta, GA",2026-04-24 20:30:00,2026-04-24 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,April,Online
+ORD932,Papa John's,"Omaha, NE",2026-04-25 18:00:00,2026-04-25 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,April,Online
+ORD933,Little Caesars,"Louisville, KY",2026-04-26 19:15:00,2026-04-26 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,TRUE,5,0.833333333,April,Online
+ORD934,Marco's Pizza,"Milwaukee, WI",2026-04-27 20:30:00,2026-04-27 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,April,Offline
+ORD935,Domino's,"Albuquerque, NM",2026-04-28 19:00:00,2026-04-28 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,April,Online
+ORD936,Pizza Hut,"Atlanta, GA",2026-04-29 20:15:00,2026-04-29 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,April,Online
+ORD937,Papa John's,"Omaha, NE",2026-04-30 18:30:00,2026-04-30 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,April,Online
+ORD938,Little Caesars,"Louisville, KY",2026-05-01 19:45:00,2026-05-01 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,May,Online
+ORD939,Marco's Pizza,"Milwaukee, WI",2026-05-02 20:00:00,2026-05-02 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,May,Offline
+ORD940,Domino's,"Albuquerque, NM",2026-05-03 19:15:00,2026-05-03 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,May,Online
+ORD941,Pizza Hut,"Atlanta, GA",2026-05-04 20:30:00,2026-05-04 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,May,Online
+ORD942,Papa John's,"Omaha, NE",2026-05-05 18:00:00,2026-05-05 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,May,Online
+ORD943,Little Caesars,"Louisville, KY",2026-05-06 19:15:00,2026-05-06 19:45:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,May,Online
+ORD944,Marco's Pizza,"Milwaukee, WI",2026-05-07 20:30:00,2026-05-07 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,May,Offline
+ORD945,Domino's,"Albuquerque, NM",2026-05-08 19:00:00,2026-05-08 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,May,Online
+ORD946,Pizza Hut,"Atlanta, GA",2026-05-09 20:15:00,2026-05-09 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,May,Online
+ORD947,Papa John's,"Omaha, NE",2026-05-10 18:30:00,2026-05-10 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,May,Online
+ORD948,Little Caesars,"Louisville, KY",2026-05-11 19:45:00,2026-05-11 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,May,Online
+ORD949,Marco's Pizza,"Milwaukee, WI",2026-05-12 20:00:00,2026-05-12 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,May,Offline
+ORD950,Papa John's,"Omaha, NE",2026-05-13 18:00:00,2026-05-13 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,May,Online
+ORD951,Little Caesars,"Louisville, KY",2026-05-14 19:15:00,2026-05-14 19:45:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,May,Online
+ORD952,Marco's Pizza,"Milwaukee, WI",2026-05-15 20:30:00,2026-05-15 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,May,Offline
+ORD953,Domino's,"Albuquerque, NM",2026-05-16 19:00:00,2026-05-16 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,May,Online
+ORD954,Pizza Hut,"Atlanta, GA",2026-05-17 20:15:00,2026-05-17 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,May,Online
+ORD955,Papa John's,"Omaha, NE",2026-05-18 18:30:00,2026-05-18 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,May,Online
+ORD956,Little Caesars,"Louisville, KY",2026-05-19 19:45:00,2026-05-19 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,May,Online
+ORD957,Marco's Pizza,"Milwaukee, WI",2026-05-20 20:00:00,2026-05-20 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,May,Offline
+ORD958,Domino's,"Albuquerque, NM",2026-05-21 19:15:00,2026-05-21 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,May,Online
+ORD959,Pizza Hut,"Atlanta, GA",2026-05-22 20:30:00,2026-05-22 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,May,Online
+ORD960,Papa John's,"Omaha, NE",2026-05-23 18:00:00,2026-05-23 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,TRUE,6,0.6,May,Online
+ORD961,Little Caesars,"Louisville, KY",2026-05-24 19:15:00,2026-05-24 19:45:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,TRUE,5,0.833333333,May,Online
+ORD962,Marco's Pizza,"Milwaukee, WI",2026-05-25 20:30:00,2026-05-25 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,May,Offline
+ORD963,Domino's,"Albuquerque, NM",2026-05-26 19:00:00,2026-05-26 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,May,Online
+ORD964,Pizza Hut,"Atlanta, GA",2026-05-27 20:15:00,2026-05-27 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,May,Online
+ORD965,Papa John's,"Omaha, NE",2026-05-28 18:30:00,2026-05-28 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,May,Online
+ORD966,Little Caesars,"Louisville, KY",2026-05-29 19:45:00,2026-05-29 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,May,Online
+ORD967,Marco's Pizza,"Milwaukee, WI",2026-05-30 20:00:00,2026-05-30 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,May,Offline
+ORD968,Domino's,"Albuquerque, NM",2026-05-31 19:15:00,2026-05-31 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,May,Online
+ORD969,Pizza Hut,"Atlanta, GA",2026-06-01 20:30:00,2026-06-01 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,June,Online
+ORD970,Papa John's,"Omaha, NE",2026-06-02 18:00:00,2026-06-02 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,June,Online
+ORD971,Little Caesars,"Louisville, KY",2026-06-03 19:15:00,2026-06-03 19:45:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,June,Online
+ORD972,Marco's Pizza,"Milwaukee, WI",2026-06-04 20:30:00,2026-06-04 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,June,Offline
+ORD973,Domino's,"Albuquerque, NM",2026-06-05 19:00:00,2026-06-05 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,June,Online
+ORD974,Pizza Hut,"Atlanta, GA",2026-06-06 20:15:00,2026-06-06 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,June,Online
+ORD975,Papa John's,"Omaha, NE",2026-06-07 18:30:00,2026-06-07 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,June,Online
+ORD976,Little Caesars,"Louisville, KY",2026-06-08 19:45:00,2026-06-08 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,June,Online
+ORD977,Marco's Pizza,"Milwaukee, WI",2026-06-09 20:00:00,2026-06-09 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,June,Offline
+ORD978,Papa John's,"Omaha, NE",2026-06-10 18:00:00,2026-06-10 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,June,Online
+ORD979,Little Caesars,"Louisville, KY",2026-06-11 19:15:00,2026-06-11 19:45:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,June,Online
+ORD980,Marco's Pizza,"Milwaukee, WI",2026-06-12 20:30:00,2026-06-12 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,June,Offline
+ORD981,Domino's,"Albuquerque, NM",2026-06-13 19:00:00,2026-06-13 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,June,Online
+ORD982,Pizza Hut,"Atlanta, GA",2026-06-14 20:15:00,2026-06-14 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,June,Online
+ORD983,Papa John's,"Omaha, NE",2026-06-15 18:30:00,2026-06-15 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,June,Online
+ORD984,Little Caesars,"Louisville, KY",2026-06-16 19:45:00,2026-06-16 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,June,Online
+ORD985,Marco's Pizza,"Milwaukee, WI",2026-06-17 20:00:00,2026-06-17 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,June,Offline
+ORD986,Domino's,"Albuquerque, NM",2026-06-18 19:15:00,2026-06-18 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,June,Online
+ORD987,Pizza Hut,"Atlanta, GA",2026-06-19 20:30:00,2026-06-19 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,June,Online
+ORD988,Papa John's,"Omaha, NE",2026-06-20 18:00:00,2026-06-20 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,TRUE,6,0.6,June,Online
+ORD989,Little Caesars,"Louisville, KY",2026-06-21 19:15:00,2026-06-21 19:45:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,TRUE,5,0.833333333,June,Online
+ORD990,Marco's Pizza,"Milwaukee, WI",2026-06-22 20:30:00,2026-06-22 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,June,Offline
+ORD991,Domino's,"Albuquerque, NM",2026-06-23 19:00:00,2026-06-23 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,June,Online
+ORD992,Pizza Hut,"Atlanta, GA",2026-06-24 20:15:00,2026-06-24 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,June,Online
+ORD993,Papa John's,"Omaha, NE",2026-06-25 18:30:00,2026-06-25 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,FALSE,6,0.6,June,Online
+ORD994,Little Caesars,"Louisville, KY",2026-06-26 19:45:00,2026-06-26 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,June,Online
+ORD995,Marco's Pizza,"Milwaukee, WI",2026-06-27 20:00:00,2026-06-27 20:30:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,TRUE,6.666666667,0.666666667,June,Offline
+ORD996,Domino's,"Albuquerque, NM",2026-06-28 19:15:00,2026-06-28 19:45:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,TRUE,5.454545455,0.727272727,June,Online
+ORD997,Pizza Hut,"Atlanta, GA",2026-06-29 20:30:00,2026-06-29 21:00:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,FALSE,7.5,0.5,June,Online
+ORD998,Papa John's,"Omaha, NE",2026-06-30 18:00:00,2026-06-30 18:30:00,30,Medium,BBQ Chicken,3,5,Medium,UPI,TRUE,FALSE,6,0.6,June,Online
+ORD999,Little Caesars,"Louisville, KY",2026-07-01 19:15:00,2026-07-01 19:45:00,30,XL,Cheese Burst,5,6,High,Card,TRUE,FALSE,5,0.833333333,July,Online
+ORD1000,Marco's Pizza,"Milwaukee, WI",2026-07-02 20:30:00,2026-07-02 21:00:00,30,Medium,Margarita,3,4.5,Medium,Cash,TRUE,FALSE,6.666666667,0.666666667,July,Offline
+ORD1001,Domino's,"Albuquerque, NM",2026-07-03 19:00:00,2026-07-03 19:30:00,30,Large,Sicilian,4,5.5,Medium,UPI,TRUE,FALSE,5.454545455,0.727272727,July,Online
+ORD1002,Pizza Hut,"Atlanta, GA",2026-07-04 20:15:00,2026-07-04 20:45:00,30,Medium,Veg,2,4,Low,Wallet,TRUE,TRUE,7.5,0.5,July,Online
+ORD1003,Papa John's,"Omaha, NE",2026-07-05 18:30:00,2026-07-05 19:00:00,30,Medium,BBQ Chicken,3,5,Medium,Card,TRUE,TRUE,6,0.6,July,Online
+ORD1004,Little Caesars,"Louisville, KY",2026-07-06 19:45:00,2026-07-06 20:15:00,30,XL,Cheese Burst,5,6,High,UPI,TRUE,FALSE,5,0.833333333,July,Online
+ORD1005,Marco's Pizza,"Milwaukee, WI",2026-07-07 20:00:00,2026-07-07 20:30:00,30,Medium,Margarita,3,4.5,Medium,UPI,TRUE,FALSE,6.666666667,0.666666667,July,Online
